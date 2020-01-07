@@ -1,0 +1,2486 @@
+company,date,exercice,concept,amount
+abengoa_(b),17/04/2015,2014,Unico,0.1130
+abengoa_(b),09/04/2014,2013,Unico,0.1110
+abengoa_(b),09/04/2013,2012,Unico,0.0720
+cevasa,03/07/2019,2019,Unico,0.2000
+cevasa,03/07/2018,2017,Unico,0.1800
+cevasa,03/07/2017,2016,Unico,0.1500
+cevasa,04/07/2016,2015,Unico,0.1300
+cevasa,22/06/2015,2014,Unico,3.0000
+cevasa,02/07/2014,2013,Unico,1.3000
+cevasa,15/05/2013,2012,Unico,1.3000
+cevasa,27/06/2012,2011,Complementario,0.6947
+cevasa,27/06/2012,2011,Unico,1.6052
+cevasa,27/12/2011,2011,A Cuenta,1.0000
+cevasa,27/06/2011,2010,Complementario,3.0630
+cevasa,10/01/2011,2010,A Cuenta,1.0000
+cevasa,06/07/2010,2009,Complementario,2.1708
+cevasa,22/12/2009,2009,A Cuenta,1.0000
+cevasa,06/07/2009,2008,Complementario,3.0870
+cevasa,15/01/2009,2008,A Cuenta,1.0000
+cevasa,02/07/2008,2007,Complementario,3.1447
+cevasa,18/01/2008,2007,A Cuenta,1.0000
+cevasa,04/07/2007,2006,Complementario,3.0208
+cevasa,15/01/2007,2006,A Cuenta,1.0000
+cevasa,07/07/2006,2005,Complementario,2.5389
+cevasa,30/01/2006,2005,A Cuenta,0.5000
+cevasa,08/07/2005,2004,Complementario,0.8178
+cevasa,20/01/2005,2004,A Cuenta,0.4000
+dominion,,,,0.0000
+d.e.anclaje,05/12/2019,2019,A Cuenta,0.1402
+d.e.anclaje,04/10/2019,2019,A Cuenta,0.1402
+d.e.anclaje,04/09/2019,2019,A Cuenta,0.1402
+d.e.anclaje,05/07/2019,2018,Complementario,0.1402
+d.e.anclaje,05/04/2019,2018,A Cuenta,0.1402
+d.e.anclaje,17/06/2010,2009,Unico,0.3424
+dia,17/07/2018,2017,Unico,0.1800
+dia,18/07/2017,2016,Unico,0.2100
+dia,14/07/2016,2015,Unico,0.2000
+dia,16/07/2014,2013,Unico,0.1600
+dia,16/07/2013,2012,Unico,0.1300
+dia,16/07/2012,2011,A Cuenta,0.1100
+d.felguera,17/09/2015,2015,A Cuenta,0.0222
+d.felguera,20/07/2015,2014,Complementario,0.0444
+d.felguera,17/03/2015,2014,A Cuenta,0.0444
+d.felguera,17/12/2014,2014,A Cuenta,0.0666
+d.felguera,15/09/2014,2014,A Cuenta,0.0666
+d.felguera,16/07/2014,2013,Complementario,0.0666
+d.felguera,17/03/2014,2013,A Cuenta,0.0600
+d.felguera,17/12/2013,2013,A Cuenta,0.0666
+d.felguera,15/10/2013,2013,A Cuenta,0.0666
+d.felguera,14/06/2013,2012,Complementario,0.1000
+d.felguera,15/03/2013,2012,A Cuenta,0.1000
+d.felguera,17/12/2012,2012,A Cuenta,0.1004
+d.felguera,17/09/2012,2012,A Cuenta,0.1004
+d.felguera,15/06/2012,2011,Complementario,0.1104
+corp.fi.alba,29/10/2019,2019,A Cuenta,0.5000
+corp.fi.alba,24/06/2019,2018,Complementario,0.5000
+corp.fi.alba,29/10/2018,2018,A Cuenta,0.5000
+corp.fi.alba,22/06/2018,2017,Complementario,0.5000
+corp.fi.alba,26/10/2017,2017,A Cuenta,0.5000
+corp.fi.alba,21/06/2017,2016,Complementario,0.5000
+corp.fi.alba,31/10/2016,2016,A Cuenta,0.5000
+corp.fi.alba,15/06/2016,2015,Complementario,0.5000
+corp.fi.alba,28/10/2015,2015,A Cuenta,0.5000
+corp.fi.alba,15/06/2015,2014,Complementario,0.5000
+corp.fi.alba,30/10/2014,2014,A Cuenta,0.5000
+corp.fi.alba,16/06/2014,2013,Complementario,0.5000
+corp.fi.alba,16/10/2013,2013,A Cuenta,0.5000
+cevasa,08/07/2004,2003,Complementario,0.5077
+cevasa,12/01/2004,2003,A Cuenta,0.4000
+cevasa,08/07/2003,2002,Complementario,0.5159
+cevasa,27/01/2003,2002,A Cuenta,0.4000
+cevasa,15/07/2002,2001,Complementario,0.5076
+cevasa,11/02/2002,2001,A Cuenta,0.4000
+cevasa,10/07/2001,2000,Complementario,0.5070
+cevasa,16/01/2001,2000,A Cuenta,0.4207
+cevasa,10/07/2000,1999,Complementario,0.4891
+cevasa,10/02/2000,1999,A Cuenta,0.4207
+d.felguera,15/03/2012,2011,A Cuenta,0.1100
+d.felguera,15/12/2011,2011,A Cuenta,0.1100
+d.felguera,12/09/2011,2011,A Cuenta,0.1100
+d.felguera,07/07/2011,2010,Complementario,0.1000
+d.felguera,15/03/2011,2010,A Cuenta,0.1000
+d.felguera,15/12/2010,2010,A Cuenta,0.0800
+d.felguera,20/10/2010,2010,A Cuenta,0.0800
+d.felguera,15/06/2010,2009,Complementario,0.1268
+d.felguera,11/03/2010,2009,A Cuenta,0.1327
+d.felguera,10/12/2009,2009,A Cuenta,0.1021
+d.felguera,15/09/2009,2009,A Cuenta,0.0919
+d.felguera,10/06/2009,2008,Complementario,0.0918
+d.felguera,12/03/2009,2008,A Cuenta,0.0813
+d.felguera,10/12/2008,2008,A Cuenta,0.0914
+d.felguera,26/09/2008,2008,A Cuenta,0.0711
+d.felguera,17/06/2008,2007,Complementario,0.0800
+d.felguera,12/03/2008,2007,A Cuenta,0.1500
+d.felguera,11/12/2007,2007,A Cuenta,0.0700
+d.felguera,07/06/2007,2006,Complementario,0.0670
+d.felguera,20/03/2007,2006,A Cuenta,0.0500
+d.felguera,15/12/2006,2006,A Cuenta,0.0500
+d.felguera,08/06/2006,2005,Complementario,0.1600
+corp.fi.alba,17/06/2013,2012,Complementario,0.5000
+corp.fi.alba,30/10/2012,2012,A Cuenta,0.5000
+corp.fi.alba,11/06/2012,2011,Complementario,0.5000
+corp.fi.alba,28/10/2011,2011,A Cuenta,0.5000
+corp.fi.alba,15/06/2011,2010,Complementario,0.5000
+corp.fi.alba,20/04/2011,2011,A Cuenta,3.0000
+corp.fi.alba,29/10/2010,2010,A Cuenta,0.5000
+corp.fi.alba,07/06/2010,2009,Complementario,0.5000
+corp.fi.alba,10/11/2009,2009,A Cuenta,0.5000
+corp.fi.alba,01/07/2009,2008,Complementario,0.3750
+corp.fi.alba,29/12/2008,2008,A Cuenta,0.3150
+corp.fi.alba,10/11/2008,2008,A Cuenta,0.0600
+corp.fi.alba,12/06/2008,2007,Complementario,0.0600
+corp.fi.alba,08/11/2007,2007,A Cuenta,0.0600
+corp.fi.alba,12/06/2007,2006,Complementario,0.0600
+corp.fi.alba,08/11/2006,2006,A Cuenta,0.0600
+corp.fi.alba,12/06/2006,2005,A Cuenta,0.0600
+corp.fi.alba,11/11/2005,2005,A Cuenta,0.0600
+corp.fi.alba,09/06/2005,2004,Complementario,0.0600
+corp.fi.alba,11/11/2004,2004,A Cuenta,0.0600
+corp.fi.alba,09/06/2004,2003,Complementario,0.0600
+corp.fi.alba,10/11/2003,2003,A Cuenta,0.0600
+corp.fi.alba,09/06/2003,2002,Complementario,0.0600
+"deoleo,_s.a.",18/06/2008,2007,Unico,0.0360
+"deoleo,_s.a.",04/07/2007,2006,Unico,0.0182
+"deoleo,_s.a.",12/07/2006,2005,Unico,0.0182
+"deoleo,_s.a.",11/05/2005,2004,Unico,0.1200
+"deoleo,_s.a.",09/01/2004,2003,Unico,0.1000
+d.felguera,01/03/2006,2005,A Cuenta,0.1600
+d.felguera,16/12/2005,2005,A Cuenta,0.1600
+d.felguera,18/08/2005,2004,Unico,0.2400
+d.felguera,14/08/2003,2002,Unico,0.2500
+d.felguera,31/07/2002,2001,Unico,0.2500
+d.felguera,22/05/2001,2000,Unico,0.3500
+d.felguera,10/07/2000,1999,Unico,0.2530
+corp.fi.alba,11/11/2002,2002,A Cuenta,0.0600
+corp.fi.alba,11/06/2002,2001,Complementario,0.0600
+corp.fi.alba,12/11/2001,2001,A Cuenta,0.0600
+corp.fi.alba,11/06/2001,2000,Complementario,0.0600
+corp.fi.alba,10/11/2000,2000,A Cuenta,0.0600
+corp.fi.alba,12/06/2000,1999,Complementario,0.0600
+ccep,03/12/2019,2019,A Cuenta,0.6200
+ccep,06/06/2019,2019,A Cuenta,0.6200
+ccep,20/11/2018,2018,A Cuenta,0.2800
+ccep,06/09/2018,2018,A Cuenta,0.2600
+ccep,29/05/2018,2018,A Cuenta,0.2600
+ccep,15/03/2018,2018,A Cuenta,0.2600
+ccep,04/12/2017,2017,A Cuenta,0.2100
+ccep,11/09/2017,2017,A Cuenta,0.2100
+ccep,05/06/2017,2017,A Cuenta,0.2100
+ccep,24/04/2017,2016,A Cuenta,0.2100
+ccep,13/01/2017,2016,A Cuenta,0.1700
+ccep,17/10/2016,2016,A Cuenta,0.1700
+codere,,,,0.0000
+cellnex,14/12/2017,2017,A Cuenta,0.0440
+cellnex,11/05/2017,2016,Complementario,0.0423
+cellnex,16/12/2016,2016,A Cuenta,0.0440
+cellnex,14/07/2016,2015,Complementario,0.0470
+cellnex,03/12/2015,2015,A Cuenta,0.0400
+cam,10/06/2010,2009,Complementario,0.0891
+cam,22/12/2009,2009,A Cuenta,0.0709
+cam,17/06/2009,2008,Complementario,0.0438
+cam,10/02/2009,2008,A Cuenta,0.0438
+cleop,23/06/2008,2007,Unico,0.0854
+cleop,15/06/2007,2006,Unico,0.0732
+cleop,15/06/2006,2005,Unico,0.1647
+cleop,15/06/2005,2004,Unico,0.1412
+cleop,15/06/2004,2003,Unico,0.0941
+cleop,01/06/2003,2002,Unico,0.0824
+coemac,15/04/2010,2009,A Cuenta,0.0320
+coemac,17/04/2009,2008,A Cuenta,0.1000
+coemac,26/05/2008,2007,Unico,0.2094
+coemac,02/07/2007,2006,Unico,0.1592
+coemac,03/07/2006,2005,Unico,0.1100
+coemac,01/07/2005,2004,Unico,0.1700
+coemac,17/01/2003,2002,Unico,0.1200
+coemac,01/07/2002,2001,Complementario,0.1200
+coemac,02/01/2002,2001,A Cuenta,0.1200
+coemac,02/07/2001,2000,Complementario,0.1448
+coemac,08/01/2001,2000,A Cuenta,0.1202
+coemac,27/06/2000,1999,Complementario,0.1322
+cash,27/12/2019,2019,A Cuenta,0.0145
+cash,10/09/2019,2018,Complementario,0.0197
+cash,12/06/2019,2018,A Cuenta,0.0197
+cash,13/03/2019,2018,A Cuenta,0.0197
+cash,28/12/2018,2018,A Cuenta,0.0197
+cash,12/09/2018,2017,Complementario,0.0143
+cash,14/06/2018,2017,A Cuenta,0.0143
+cash,14/03/2018,2017,A Cuenta,0.0143
+cash,27/12/2017,2017,A Cuenta,0.0286
+cie_automot.,03/01/2020,2019,A Cuenta,0.3700
+cie_automot.,03/07/2019,2018,Complementario,0.3100
+cie_automot.,04/01/2019,2018,A Cuenta,0.3100
+cie_automot.,03/07/2018,2017,Complementario,0.2800
+cie_automot.,05/01/2018,2017,A Cuenta,0.2800
+cie_automot.,05/07/2017,2016,Complementario,0.2100
+cie_automot.,05/01/2017,2016,A Cuenta,0.2000
+cie_automot.,05/07/2016,2015,Complementario,0.1700
+cie_automot.,04/01/2016,2015,A Cuenta,0.1600
+cie_automot.,03/07/2015,2014,Complementario,0.1000
+cie_automot.,05/01/2015,2014,A Cuenta,0.1000
+cie_automot.,03/07/2014,2013,Complementario,0.0900
+cie_automot.,03/01/2014,2013,A Cuenta,0.0900
+cie_automot.,03/07/2013,2012,Complementario,0.0900
+cie_automot.,03/01/2013,2012,A Cuenta,0.0900
+cie_automot.,08/05/2012,2011,Complementario,0.0900
+cie_automot.,03/01/2012,2011,A Cuenta,0.0900
+cie_automot.,08/05/2008,2007,Complementario,0.0700
+cie_automot.,21/12/2007,2007,A Cuenta,0.0600
+cie_automot.,15/05/2007,2006,Complementario,0.0500
+cie_automot.,27/12/2006,2006,A Cuenta,0.0600
+cie_automot.,31/05/2006,2005,Complementario,0.0500
+cie_automot.,26/12/2005,2005,A Cuenta,0.2000
+cie_automot.,15/06/2005,2004,Complementario,0.1400
+cie_automot.,15/12/2004,2004,A Cuenta,0.1000
+cie_automot.,30/06/2004,2003,Complementario,0.1000
+cie_automot.,30/12/2003,2003,Unico,0.1000
+cie_automot.,15/07/2002,2001,Unico,0.4500
+cie_automot.,16/07/2001,2000,Unico,0.4508
+cie_automot.,20/07/2000,1999,Complementario,40.0000
+cie_automot.,24/01/2000,1999,A Cuenta,35.0000
+vertice_360,,,,0.0000
+vocento,10/05/2019,2018,A Cuenta,0.0320
+vocento,12/05/2008,2007,Complementario,0.1942
+vocento,10/10/2007,2007,A Cuenta,0.3078
+vocento,08/05/2007,2006,Complementario,0.1073
+vocento,10/01/2007,2006,A Cuenta,0.1222
+viscofan,19/12/2019,2019,A Cuenta,0.6500
+viscofan,06/06/2019,2018,Complementario,0.9500
+viscofan,20/12/2018,2018,A Cuenta,0.6400
+viscofan,07/06/2018,2017,Complementario,0.9200
+viscofan,22/03/2018,2018,Extraordinario,0.1300
+viscofan,21/12/2017,2017,A Cuenta,0.6200
+viscofan,08/06/2017,2016,Complementario,0.8700
+viscofan,22/12/2016,2016,A Cuenta,0.5700
+viscofan,09/06/2016,2015,Complementario,0.8200
+viscofan,29/12/2015,2015,A Cuenta,0.5200
+viscofan,04/06/2015,2014,Complementario,0.7240
+viscofan,29/12/2014,2014,A Cuenta,0.4500
+viscofan,04/06/2014,2013,Complementario,0.7040
+viscofan,23/12/2013,2013,A Cuenta,0.4100
+viscofan,04/06/2013,2012,Complementario,0.6940
+viscofan,20/12/2012,2012,A Cuenta,0.4000
+unicaja,10/05/2019,2018,Unico,0.0379
+unicaja,10/05/2018,2017,Unico,0.0215
+viscofan,05/06/2012,2011,Complementario,0.6340
+viscofan,22/12/2011,2011,A Cuenta,0.3600
+viscofan,05/05/2011,2010,Complementario,0.2040
+viscofan,22/12/2010,2010,A Cuenta,0.3000
+viscofan,22/12/2009,2009,Unico,0.2600
+viscofan,28/01/2009,2008,A Cuenta,0.2050
+viscofan,21/01/2008,2007,A Cuenta,0.1900
+viscofan,30/01/2007,2006,A Cuenta,0.1400
+viscofan,27/01/2006,2005,A Cuenta,0.0780
+viscofan,27/01/2005,2004,A Cuenta,0.0780
+viscofan,29/01/2004,2003,Unico,0.0780
+viscofan,29/01/2003,2002,Unico,0.0780
+viscofan,04/07/2002,2001,Complementario,0.0540
+viscofan,29/01/2002,2001,A Cuenta,0.0480
+viscofan,04/07/2001,2000,Complementario,0.0481
+viscofan,29/01/2001,2000,A Cuenta,0.0481
+viscofan,05/07/2000,1999,Complementario,0.0541
+viscofan,31/01/2000,1999,A Cuenta,0.0481
+vidrala,19/07/2019,2018,Complementario,0.2917
+vidrala,12/07/2019,2018,Complementario,0.2917
+vidrala,14/02/2019,2018,A Cuenta,0.7664
+vidrala,14/12/2018,2018,A Cuenta,0.7664
+vidrala,13/07/2018,2017,Complementario,0.2652
+vidrala,14/02/2018,2017,A Cuenta,0.6967
+vidrala,14/12/2017,2017,A Cuenta,0.6967
+vidrala,14/07/2017,2016,Complementario,0.2210
+vidrala,14/02/2017,2016,A Cuenta,0.5806
+vidrala,14/07/2016,2015,Complementario,0.1922
+vidrala,15/02/2016,2015,A Cuenta,0.5278
+vidrala,14/07/2015,2014,Complementario,0.1748
+vidrala,13/02/2015,2014,A Cuenta,0.4798
+vidrala,14/07/2014,2013,Complementario,0.1748
+urbas,,,,0.0000
+zardoya_otis,10/10/2019,2019,A Cuenta,0.0800
+zardoya_otis,10/07/2019,2018,n.a. (14R),0.0800
+zardoya_otis,10/04/2019,2019,A Cuenta,0.0800
+zardoya_otis,10/01/2019,2018,A Cuenta,0.0800
+zardoya_otis,10/10/2018,2018,A Cuenta,0.0800
+zardoya_otis,10/07/2018,2018,A Cuenta,0.0800
+zardoya_otis,10/04/2018,2018,A Cuenta,0.0800
+zardoya_otis,10/01/2018,2017,A Cuenta,0.0800
+zardoya_otis,10/10/2017,2017,A Cuenta,0.0800
+zardoya_otis,10/04/2017,2017,A Cuenta,0.0800
+zardoya_otis,10/01/2017,2016,A Cuenta,0.0800
+vidrala,14/02/2014,2013,A Cuenta,0.4798
+vidrala,15/07/2013,2012,Complementario,0.1520
+vidrala,14/02/2013,2012,A Cuenta,0.4172
+vidrala,13/07/2012,2011,Complementario,0.1448
+vidrala,14/02/2012,2011,A Cuenta,0.3973
+vidrala,14/07/2011,2010,Complementario,0.1448
+vidrala,15/02/2011,2010,A Cuenta,0.3973
+vidrala,14/07/2010,2009,Complementario,0.1379
+vidrala,15/02/2010,2009,A Cuenta,0.3784
+vidrala,14/07/2009,2008,Complementario,0.1313
+vidrala,16/02/2009,2008,A Cuenta,0.3604
+vidrala,15/07/2008,2007,Complementario,0.1250
+vidrala,14/02/2008,2007,A Cuenta,0.3432
+vidrala,16/07/2007,2006,Complementario,0.1109
+vidrala,14/02/2007,2006,A Cuenta,0.3432
+vidrala,14/07/2006,2005,Complementario,0.1094
+vidrala,14/02/2006,2005,A Cuenta,0.3432
+vidrala,12/07/2005,2004,Complementario,0.1000
+vidrala,24/02/2005,2004,A Cuenta,0.3300
+vidrala,12/07/2004,2003,Complementario,0.0885
+vidrala,16/02/2004,2003,A Cuenta,0.3200
+zardoya_otis,10/10/2016,2016,A Cuenta,0.0800
+zardoya_otis,11/04/2016,2016,A Cuenta,0.0800
+zardoya_otis,11/01/2016,2015,A Cuenta,0.0800
+zardoya_otis,13/10/2015,2015,A Cuenta,0.0800
+zardoya_otis,10/04/2015,2015,A Cuenta,0.0850
+zardoya_otis,12/01/2015,2014,A Cuenta,0.0850
+zardoya_otis,10/10/2014,2014,A Cuenta,0.0900
+zardoya_otis,10/04/2014,2014,A Cuenta,0.0900
+zardoya_otis,10/01/2014,2013,A Cuenta,0.0900
+zardoya_otis,10/10/2013,2013,A Cuenta,0.0900
+zardoya_otis,10/04/2013,2013,A Cuenta,0.1000
+zardoya_otis,10/12/2012,2012,A Cuenta,0.1100
+zardoya_otis,10/09/2012,2012,A Cuenta,0.1200
+zardoya_otis,11/06/2012,2011,A Cuenta,0.1200
+zardoya_otis,12/03/2012,2012,A Cuenta,0.1200
+zardoya_otis,12/12/2011,2011,A Cuenta,0.1250
+zardoya_otis,12/09/2011,2011,A Cuenta,0.1350
+zardoya_otis,10/06/2011,2010,A Cuenta,0.1350
+zardoya_otis,10/03/2011,2011,A Cuenta,0.1400
+zardoya_otis,10/12/2010,2010,A Cuenta,0.1400
+zardoya_otis,10/09/2010,2010,A Cuenta,0.1400
+zardoya_otis,10/06/2010,2010,A Cuenta,0.1400
+zardoya_otis,10/03/2010,2009,A Cuenta,0.1500
+vidrala,10/07/2003,2002,Complementario,0.0807
+vidrala,14/02/2003,2002,A Cuenta,0.3000
+vidrala,15/07/2002,2001,Complementario,0.0800
+vidrala,14/02/2002,2001,A Cuenta,0.2800
+vidrala,25/06/2001,2000,Complementario,10.9300
+vidrala,15/02/2001,2000,A Cuenta,44.0000
+vidrala,26/06/2000,1999,Complementario,11.0500
+vidrala,15/02/2000,1999,A Cuenta,44.0000
+zardoya_otis,10/12/2009,2009,A Cuenta,0.1500
+zardoya_otis,10/09/2009,2009,A Cuenta,0.1500
+zardoya_otis,10/06/2009,2009,A Cuenta,0.1500
+zardoya_otis,10/03/2009,2008,Complementario,0.1600
+zardoya_otis,10/12/2008,2008,A Cuenta,0.1600
+zardoya_otis,10/09/2008,2008,A Cuenta,0.1600
+zardoya_otis,10/06/2008,2008,A Cuenta,0.1600
+zardoya_otis,10/03/2008,2008,A Cuenta,0.1600
+zardoya_otis,10/12/2007,2007,A Cuenta,0.1600
+zardoya_otis,10/09/2007,2007,A Cuenta,0.1600
+zardoya_otis,11/06/2007,2007,A Cuenta,0.1600
+zardoya_otis,12/03/2007,2007,A Cuenta,0.1600
+zardoya_otis,11/12/2006,2006,A Cuenta,0.1550
+zardoya_otis,11/09/2006,2006,A Cuenta,0.1550
+zardoya_otis,12/06/2006,2006,A Cuenta,0.1550
+zardoya_otis,10/03/2006,2005,A Cuenta,0.1550
+zardoya_otis,10/12/2005,2005,A Cuenta,0.1500
+zardoya_otis,12/09/2005,2005,A Cuenta,0.1500
+zardoya_otis,10/06/2005,2005,A Cuenta,0.1450
+zardoya_otis,10/03/2005,2004,A Cuenta,0.1450
+zardoya_otis,10/12/2004,2004,A Cuenta,0.1450
+zardoya_otis,10/09/2004,2004,A Cuenta,0.1450
+zardoya_otis,10/06/2004,2004,A Cuenta,0.1450
+zardoya_otis,10/03/2004,2003,Complementario,0.1450
+zardoya_otis,10/12/2003,2003,A Cuenta,0.1350
+zardoya_otis,10/09/2003,2003,A Cuenta,0.1350
+zardoya_otis,10/06/2003,2003,A Cuenta,0.1350
+zardoya_otis,10/03/2003,2002,Complementario,0.1350
+zardoya_otis,10/12/2002,2002,A Cuenta,0.1300
+zardoya_otis,10/09/2002,2002,A Cuenta,0.1300
+zardoya_otis,10/06/2002,2002,A Cuenta,0.1300
+zardoya_otis,11/03/2002,2001,Complementario,0.1200
+zardoya_otis,10/12/2001,2001,A Cuenta,0.1200
+zardoya_otis,10/09/2001,2001,A Cuenta,0.1200
+zardoya_otis,11/06/2001,2001,A Cuenta,0.1200
+zardoya_otis,12/03/2001,2000,Complementario,0.1200
+zardoya_otis,11/12/2000,2000,A Cuenta,0.1200
+zardoya_otis,11/09/2000,2000,A Cuenta,0.1200
+zardoya_otis,10/06/2000,2000,A Cuenta,0.1200
+zardoya_otis,10/03/2000,1999,Complementario,0.1202
+tubos_reuni.,18/06/2015,2014,A Cuenta,0.0115
+tubos_reuni.,20/06/2014,2013,A Cuenta,0.0180
+tubos_reuni.,20/06/2013,2012,Unico,0.0230
+tubos_reuni.,20/06/2012,2011,Complementario,0.0180
+tubos_reuni.,20/12/2011,2011,A Cuenta,0.0120
+tubos_reuni.,10/07/2009,2008,Complementario,0.0400
+tubos_reuni.,10/04/2009,2008,A Cuenta,0.0350
+tubos_reuni.,12/01/2009,2008,A Cuenta,0.0350
+tubos_reuni.,10/10/2008,2008,A Cuenta,0.0350
+tubos_reuni.,10/07/2008,2007,Complementario,0.0450
+tubos_reuni.,10/04/2008,2007,A Cuenta,0.0350
+tubos_reuni.,27/12/2007,2007,A Cuenta,0.0454
+tubos_reuni.,05/10/2007,2007,A Cuenta,0.1000
+tubos_reuni.,10/07/2007,2006,Complementario,0.1000
+tubos_reuni.,10/04/2007,2006,A Cuenta,0.0900
+tubos_reuni.,10/01/2007,2006,A Cuenta,0.0600
+tubos_reuni.,10/10/2006,2006,A Cuenta,0.0500
+tubos_reuni.,10/07/2006,2005,Complementario,0.0500
+tubos_reuni.,10/04/2006,2005,A Cuenta,0.0400
+tubos_reuni.,10/01/2006,2005,A Cuenta,0.0340
+tubos_reuni.,10/10/2005,2005,A Cuenta,0.1000
+tubos_reuni.,07/07/2005,2004,Complementario,0.1125
+tubos_reuni.,03/03/2005,2004,A Cuenta,0.0636
+tubos_reuni.,03/12/2004,2004,A Cuenta,0.0586
+tubos_reuni.,14/07/2004,2003,Complementario,0.0930
+tubos_reuni.,10/03/2004,2003,A Cuenta,0.0530
+tubos_reuni.,10/12/2003,2003,A Cuenta,0.0488
+tubos_reuni.,10/07/2003,2002,Complementario,0.2600
+tubos_reuni.,10/03/2003,2002,A Cuenta,0.1765
+tubos_reuni.,10/12/2002,2002,A Cuenta,0.1463
+tubos_reuni.,10/06/2002,2001,Complementario,0.1463
+tubos_reuni.,15/03/2002,2001,A Cuenta,0.1463
+tubos_reuni.,11/12/2001,2001,A Cuenta,0.1244
+tubacex,03/06/2019,2018,Complementario,0.0230
+tubacex,03/05/2019,2018,Complementario,0.0230
+tubacex,18/01/2019,2018,A Cuenta,0.0230
+tubacex,06/06/2016,2015,A Cuenta,0.0259
+tubacex,01/07/2015,2014,Complementario,0.0501
+tubacex,20/01/2015,2014,A Cuenta,0.0230
+tubacex,01/07/2014,2013,Complementario,0.0231
+tubacex,11/11/2013,2013,A Cuenta,0.0230
+tubacex,01/07/2013,2012,Complementario,0.0043
+tubacex,15/04/2013,2012,A Cuenta,0.0230
+tubacex,15/07/2009,2008,Unico,0.1013
+tubacex,15/07/2008,2007,Unico,0.1513
+tubacex,14/07/2007,2006,A Cuenta,0.0944
+tubacex,15/09/2006,2005,Complementario,0.0233
+tubacex,14/07/2006,2005,A Cuenta,0.0543
+tubacex,15/09/2005,2004,Extraordinario,0.0144
+tubacex,15/07/2005,2004,Unico,0.0371
+tubacex,15/07/2004,2003,Unico,0.0185
+tubacex,15/07/2003,2002,Unico,0.0426
+tubacex,15/07/2002,2001,Unico,0.0426
+tubacex,20/07/2001,2000,Unico,0.0305
+tubacex,12/06/2000,1999,Unico,0.0423
+talgo,30/06/2017,2016,A Cuenta,0.0720
+tecnicas_reu,13/07/2018,2017,Complementario,0.2633
+tecnicas_reu,18/01/2018,2017,A Cuenta,0.6670
+tecnicas_reu,18/12/2017,2017,A Cuenta,0.6670
+tecnicas_reu,10/07/2017,2016,Complementario,0.7289
+tecnicas_reu,19/01/2017,2016,A Cuenta,0.6670
+tecnicas_reu,14/07/2016,2015,Complementario,0.7289
+tecnicas_reu,12/01/2016,2015,A Cuenta,0.6670
+tecnicas_reu,15/07/2015,2014,Complementario,0.7286
+tecnicas_reu,15/01/2015,2014,A Cuenta,0.6670
+tecnicas_reu,15/07/2014,2013,Complementario,0.7286
+tecnicas_reu,16/01/2014,2013,A Cuenta,0.6670
+tecnicas_reu,11/07/2013,2012,Complementario,0.7286
+tecnicas_reu,17/01/2013,2012,A Cuenta,0.6670
+tecnicas_reu,11/07/2012,2011,Complementario,0.6880
+tecnicas_reu,20/01/2012,2011,A Cuenta,0.6670
+tecnicas_reu,15/07/2011,2010,Complementario,0.6800
+tecnicas_reu,19/01/2011,2010,A Cuenta,0.6600
+tecnicas_reu,09/07/2010,2009,Complementario,0.6800
+tecnicas_reu,12/01/2010,2009,A Cuenta,0.6600
+tecnicas_reu,02/07/2009,2008,Complementario,0.6500
+tecnicas_reu,21/01/2009,2008,A Cuenta,0.6400
+tecnicas_reu,22/07/2008,2007,Complementario,0.5244
+tecnicas_reu,22/01/2008,2007,A Cuenta,0.4500
+tecnicas_reu,17/07/2007,2006,Complementario,0.3400
+tecnicas_reu,24/01/2007,2006,A Cuenta,0.3000
+solaria,03/10/2011,2010,A Cuenta,0.0200
+solaria,23/05/2011,2010,A Cuenta,0.0150
+sniace,,,,0.0000
+siemens_gam,04/04/2019,2018,A Cuenta,0.0257
+siemens_gam,04/03/2019,2018,A Cuenta,0.0257
+siemens_gam,05/07/2017,2016,A Cuenta,0.1106
+siemens_gam,11/04/2017,2016,Extraordinario,3.5976
+siemens_gam,04/07/2016,2015,Unico,0.1524
+siemens_gam,03/07/2015,2014,Unico,0.0825
+siemens_gam,27/07/2012,2011,Complementario,0.0068
+siemens_gam,10/07/2012,2011,A Cuenta,0.0430
+siemens_gam,20/07/2011,2010,Complementario,0.0068
+siemens_gam,01/07/2011,2010,A Cuenta,0.0440
+siemens_gam,02/07/2010,2009,Unico,0.1160
+siemens_gam,24/06/2009,2008,Unico,0.2000
+siemens_gam,20/06/2008,2007,Unico,0.2300
+siemens_gam,20/06/2007,2006,Unico,0.2070
+siemens_gam,29/06/2006,2005,Unico,0.1644
+siemens_gam,15/06/2005,2004,Complementario,0.1577
+siemens_gam,10/01/2005,2004,A Cuenta,0.1357
+siemens_gam,18/06/2004,2003,Complementario,0.1433
+siemens_gam,08/01/2004,2003,A Cuenta,0.3700
+siemens_gam,09/06/2003,2002,Extraordinario,0.3700
+telefonica,19/12/2019,2019,n.a. (14R),0.2000
+telefonica,20/06/2019,2019,n.a. (14R),0.2000
+telefonica,20/12/2018,2018,n.a. (14R),0.2000
+telefonica,15/06/2018,2018,n.a. (14R),0.2000
+telefonica,14/12/2017,2016,A Cuenta,0.2000
+telefonica,16/06/2017,2016,A Cuenta,0.2000
+telefonica,01/12/2016,2016,A Cuenta,0.3400
+telefonica,19/05/2016,2015,A Cuenta,0.4000
+telefonica,18/11/2015,2015,A Cuenta,0.3450
+telefonica,12/05/2015,2015,A Cuenta,0.4000
+telefonica,19/11/2014,2014,A Cuenta,0.3360
+telefonica,07/05/2014,2013,Complementario,0.4000
+telefonica,06/11/2013,2013,A Cuenta,0.3500
+telefonica,18/05/2012,2011,Complementario,0.5300
+telefonica,18/05/2012,2012,A Cuenta,0.2850
+telefonica,07/11/2011,2011,A Cuenta,0.7700
+telefonica,06/05/2011,2011,A Cuenta,0.7500
+telefonica,08/11/2010,2010,A Cuenta,0.6500
+telefonica,11/05/2010,2010,A Cuenta,0.6500
+telefonica,11/11/2009,2009,A Cuenta,0.5000
+telefonica,12/05/2009,2009,A Cuenta,0.5000
+telefonica,12/11/2008,2008,A Cuenta,0.5000
+telefonica,13/05/2008,2007,Complementario,0.4000
+telefonica,14/11/2007,2007,A Cuenta,0.3500
+telefonica,17/05/2007,2006,Complementario,0.3000
+telefonica,10/11/2006,2006,A Cuenta,0.3000
+telefonica,12/05/2006,2005,A Cuenta,0.2500
+telefonica,13/05/2005,2004,A Cuenta,0.2300
+telefonica,14/05/2004,2003,Unico,0.2000
+repsol_d2019,,,,0.0000
+santander,01/11/2019,2019,A Cuenta,0.1000
+santander,02/05/2019,2018,Complementario,0.0650
+santander,01/02/2019,2018,A Cuenta,0.0650
+santander,05/11/2018,2018,A Cuenta,0.0350
+santander,01/08/2018,2018,A Cuenta,0.0650
+santander,02/05/2018,2017,Complementario,0.0600
+santander,01/02/2018,2017,A Cuenta,0.0600
+santander,03/11/2017,2017,A Cuenta,0.0400
+santander,04/08/2017,2017,A Cuenta,0.0600
+santander,02/05/2017,2016,Complementario,0.0550
+santander,01/02/2017,2016,A Cuenta,0.0550
+santander,03/11/2016,2016,A Cuenta,0.0450
+santander,01/08/2016,2016,A Cuenta,0.0550
+santander,03/05/2016,2015,A Cuenta,0.0500
+santander,01/02/2016,2015,A Cuenta,0.0500
+santander,20/10/2015,2015,A Cuenta,0.0500
+santander,01/08/2015,2015,A Cuenta,0.0500
+santander,14/04/2015,2014,Complementario,0.1510
+santander,14/01/2015,2014,A Cuenta,0.1460
+santander,20/10/2014,2014,A Cuenta,0.1510
+santander,15/07/2014,2014,A Cuenta,0.1520
+santander,14/04/2014,2013,Complementario,0.1490
+santander,15/01/2014,2013,A Cuenta,0.1520
+santander,16/10/2013,2013,A Cuenta,0.1530
+santander,15/07/2013,2013,A Cuenta,0.1500
+santander,12/04/2013,2012,Complementario,0.1500
+santander,15/01/2013,2012,A Cuenta,0.1520
+santander,17/10/2012,2012,A Cuenta,0.1500
+santander,13/07/2012,2012,A Cuenta,0.1520
+santander,13/04/2012,2011,A Cuenta,0.2200
+santander,16/01/2012,2011,A Cuenta,0.1190
+santander,17/10/2011,2011,A Cuenta,0.1260
+santander,01/08/2011,2011,A Cuenta,0.1352
+santander,01/05/2011,2010,A Cuenta,0.2288
+santander,17/01/2011,2010,A Cuenta,0.1170
+santander,15/10/2010,2010,A Cuenta,0.1190
+santander,01/08/2010,2010,A Cuenta,0.1352
+santander,01/05/2010,2009,A Cuenta,0.2218
+santander,01/02/2010,2009,A Cuenta,0.1229
+santander,16/10/2009,2009,A Cuenta,0.1200
+santander,01/08/2009,2009,A Cuenta,0.1352
+santander,01/05/2009,2008,A Cuenta,0.2574
+santander,02/02/2009,2008,A Cuenta,0.1229
+santander,01/11/2008,2008,A Cuenta,0.1352
+santander,01/08/2008,2008,A Cuenta,0.1352
+santander,02/05/2008,2007,Complementario,0.2820
+santander,01/02/2008,2007,A Cuenta,0.1229
+santander,01/11/2007,2007,A Cuenta,0.1229
+santander,01/08/2007,2007,A Cuenta,0.1229
+santander,01/05/2007,2006,A Cuenta,0.1999
+santander,01/02/2007,2006,A Cuenta,0.1069
+san_jose,,,,0.0000
+santander,01/11/2006,2006,A Cuenta,0.1069
+santander,01/08/2006,2006,A Cuenta,0.1069
+santander,01/05/2006,2005,A Cuenta,0.1376
+santander,01/02/2006,2005,A Cuenta,0.0930
+santander,01/11/2005,2005,A Cuenta,0.0930
+santander,01/08/2005,2005,A Cuenta,0.0930
+santander,01/05/2005,2004,Complementario,0.0842
+santander,01/02/2005,2004,A Cuenta,0.0830
+santander,01/11/2004,2004,A Cuenta,0.0830
+santander,01/08/2004,2004,A Cuenta,0.0830
+santander,01/05/2004,2003,Complementario,0.0704
+santander,01/02/2004,2003,A Cuenta,0.0775
+santander,01/11/2003,2003,A Cuenta,0.0775
+santander,01/08/2003,2003,A Cuenta,0.0775
+santander,01/05/2003,2002,Complementario,0.0607
+santander,01/02/2003,2002,A Cuenta,0.0751
+santander,01/11/2002,2002,A Cuenta,0.0751
+santander,01/08/2002,2002,A Cuenta,0.0775
+santander,30/04/2002,2001,Complementario,0.0631
+santander,31/01/2002,2001,A Cuenta,0.0751
+santander,31/10/2001,2001,A Cuenta,0.0751
+santander,31/07/2001,2001,A Cuenta,0.0751
+solarpack,,,,0.0000
+santander,30/04/2001,2000,Complementario,0.0751
+santander,31/01/2001,2000,A Cuenta,0.0661
+santander,31/10/2000,2000,A Cuenta,0.0661
+santander,31/07/2000,2000,A Cuenta,0.0661
+santander,29/04/2000,1999,Complementario,0.0625
+santander,31/01/2000,1999,A Cuenta,0.0550
+rovi,04/07/2019,2018,Unico,0.0798
+rovi,05/07/2018,2017,Unico,0.1207
+rovi,05/07/2017,2016,Unico,0.1830
+rovi,05/07/2016,2015,Unico,0.1390
+rovi,02/07/2015,2014,Unico,0.1690
+rovi,03/07/2014,2013,Unico,0.1612
+rovi,03/07/2013,2012,Unico,0.1366
+rovi,04/07/2012,2011,Unico,0.1269
+rovi,06/07/2011,2010,Unico,0.1721
+rovi,06/07/2010,2009,Unico,0.1410
+rovi,08/07/2009,2008,Complementario,0.0865
+rovi,17/09/2008,2008,A Cuenta,0.0783
+sacyr,04/07/2019,2018,Complementario,0.0540
+sacyr,30/01/2019,2018,Complementario,0.0510
+sacyr,11/07/2018,2017,A Cuenta,0.0510
+sacyr,09/02/2018,2017,A Cuenta,0.0520
+sacyr,15/09/2015,2015,A Cuenta,0.0500
+sacyr,24/05/2011,2011,A Cuenta,0.1000
+sacyr,31/10/2008,2008,A Cuenta,0.1500
+sacyr,10/07/2008,2008,A Cuenta,0.1500
+sacyr,08/04/2008,2007,A Cuenta,0.1500
+sacyr,11/01/2008,2007,A Cuenta,0.1500
+sacyr,11/10/2007,2007,A Cuenta,0.1500
+sacyr,17/07/2007,2007,A Cuenta,0.1500
+sacyr,13/04/2007,2006,A Cuenta,0.1850
+sacyr,16/01/2007,2006,A Cuenta,0.1050
+sacyr,13/10/2006,2006,A Cuenta,0.1050
+sacyr,21/07/2006,2006,A Cuenta,0.1050
+sacyr,12/04/2006,2005,Complementario,0.1200
+sacyr,13/01/2006,2005,A Cuenta,0.1000
+sacyr,14/10/2005,2005,A Cuenta,0.1000
+sacyr,29/07/2005,2005,A Cuenta,0.1000
+sacyr,15/04/2005,2004,Complementario,0.1350
+sacyr,14/01/2005,2004,A Cuenta,0.0750
+sacyr,15/10/2004,2004,A Cuenta,0.0750
+sacyr,28/07/2004,2004,A Cuenta,0.0770
+sacyr,29/06/2004,2003,Complementario,0.0750
+sacyr,09/01/2004,2003,A Cuenta,0.0750
+sacyr,16/10/2003,2003,Extraordinario,0.1200
+sacyr,15/10/2003,2003,A Cuenta,0.0750
+sacyr,14/07/2003,2003,A Cuenta,0.0750
+sacyr,10/04/2003,2002,Complementario,0.0750
+sacyr,31/01/2003,2002,A Cuenta,0.0750
+repsol,08/07/2019,2018,Complementario,0.5050
+repsol,11/01/2019,2018,A Cuenta,0.4110
+repsol,10/07/2018,2017,Complementario,0.4850
+repsol,04/07/2017,2016,Complementario,0.4260
+repsol,10/01/2017,2016,A Cuenta,0.3350
+repsol,09/01/2017,2017,A Cuenta,0.3880
+repsol,06/07/2016,2015,Complementario,0.2920
+repsol,05/07/2016,2015,Complementario,0.2920
+repsol,19/12/2015,2015,A Cuenta,0.4660
+repsol,18/06/2015,2014,Complementario,0.4840
+repsol,22/12/2014,2014,A Cuenta,0.4720
+repsol,19/06/2014,2013,Complementario,0.4850
+repsol,06/06/2014,2014,A Cuenta,1.0000
+repsol,23/12/2013,2013,A Cuenta,0.4770
+sacyr,30/10/2002,2002,A Cuenta,0.0750
+sacyr,24/07/2002,2002,A Cuenta,0.0750
+sacyr,05/04/2002,2001,Complementario,0.0625
+sacyr,30/01/2002,2001,A Cuenta,0.0625
+sacyr,05/11/2001,2001,A Cuenta,0.0625
+sacyr,30/07/2001,2001,A Cuenta,0.0625
+sacyr,04/01/2001,2000,Complementario,0.1500
+sacyr,03/07/2000,2000,A Cuenta,0.0500
+sacyr,19/04/2000,1999,Complementario,0.0946
+sacyr,03/01/2000,1999,A Cuenta,0.0654
+repsol,20/06/2013,2012,A Cuenta,0.0400
+repsol,20/06/2013,2013,A Cuenta,0.4450
+repsol,25/12/2012,2012,A Cuenta,0.4730
+repsol,21/06/2012,2012,Complementario,0.5450
+repsol,10/01/2012,2011,A Cuenta,0.5775
+repsol,07/07/2011,2010,Complementario,0.5250
+repsol,13/01/2011,2010,A Cuenta,0.5250
+repsol,08/07/2010,2009,Complementario,0.4250
+repsol,22/12/2009,2009,A Cuenta,0.4250
+repsol,09/07/2009,2008,Complementario,0.5250
+repsol,15/01/2009,2008,A Cuenta,0.5250
+repsol,09/07/2008,2007,Complementario,0.5000
+repsol,15/01/2008,2007,A Cuenta,0.5000
+repsol,05/07/2007,2006,Complementario,0.3600
+repsol,11/01/2007,2006,A Cuenta,0.3600
+repsol,05/07/2006,2005,Complementario,0.3000
+repsol,12/01/2006,2005,A Cuenta,0.3000
+repsol,05/07/2005,2004,Complementario,0.2500
+repsol,11/01/2005,2004,A Cuenta,0.2500
+repsol,01/07/2004,2003,Complementario,0.2000
+repsol,15/01/2004,2003,A Cuenta,0.2000
+repsol,15/07/2003,2002,Complementario,0.1600
+repsol,22/01/2003,2002,A Cuenta,0.1500
+repsol,11/01/2002,2001,Unico,0.2100
+repsol,12/07/2001,2000,Complementario,0.3100
+repsol,11/01/2001,2000,A Cuenta,0.1900
+repsol,13/07/2000,1999,Complementario,0.2600
+repsol,13/01/2000,1999,A Cuenta,0.1600
+service_p.s.,,,,0.0000
+realia,19/06/2008,2008,A Cuenta,0.0600
+realia,19/06/2008,2007,Complementario,0.0140
+realia,17/12/2007,2007,A Cuenta,0.1200
+realia,02/07/2007,2007,A Cuenta,0.1200
+reig_jofre,23/05/2019,2018,A Cuenta,0.0450
+reig_jofre,02/07/2018,2017,A Cuenta,0.0460
+reig_jofre,06/07/2017,2016,A Cuenta,0.0470
+reig_jofre,06/06/2013,2012,Unico,0.0370
+r.e.c.,07/01/2020,2019,A Cuenta,0.2727
+r.e.c.,01/07/2019,2018,Complementario,0.7104
+r.e.c.,08/01/2019,2018,A Cuenta,0.2727
+r.e.c.,02/07/2018,2017,Complementario,0.6639
+r.e.c.,05/01/2018,2017,A Cuenta,0.2549
+r.e.c.,03/07/2017,2016,Complementario,0.6205
+r.e.c.,05/01/2017,2016,A Cuenta,0.2382
+r.e.c.,28/06/2016,2015,Complementario,2.3194
+r.e.c.,04/01/2016,2015,A Cuenta,0.8906
+r.e.c.,01/07/2015,2014,Complementario,2.1677
+r.e.c.,02/01/2015,2014,A Cuenta,0.8323
+r.e.c.,01/07/2014,2013,Complementario,1.8185
+r.e.c.,02/01/2014,2013,A Cuenta,0.7237
+r.e.c.,01/07/2013,2012,Complementario,1.6887
+r.e.c.,02/01/2013,2012,A Cuenta,0.6764
+r.e.c.,02/07/2012,2011,Complementario,1.5360
+r.e.c.,02/01/2012,2011,A Cuenta,0.6764
+r.e.c.,01/07/2011,2010,Complementario,1.2869
+r.e.c.,03/01/2011,2010,A Cuenta,0.5882
+r.e.c.,01/07/2010,2009,Complementario,0.9666
+r.e.c.,04/01/2010,2009,A Cuenta,0.5115
+r.e.c.,01/07/2009,2008,Complementario,0.8310
+r.e.c.,02/01/2009,2008,A Cuenta,0.4487
+r.e.c.,01/07/2008,2007,Complementario,0.7003
+r.e.c.,02/01/2008,2007,A Cuenta,0.3868
+r.e.c.,02/07/2007,2006,Complementario,0.5734
+r.e.c.,02/01/2007,2006,A Cuenta,0.3250
+r.e.c.,03/07/2006,2005,Complementario,0.4596
+r.e.c.,02/01/2006,2005,A Cuenta,0.2708
+r.e.c.,01/07/2005,2004,Complementario,0.3763
+r.e.c.,03/01/2005,2004,A Cuenta,0.2375
+r.e.c.,01/07/2004,2003,Complementario,0.3360
+r.e.c.,02/01/2004,2003,A Cuenta,0.2120
+r.e.c.,01/07/2003,2002,Complementario,0.2900
+r.e.c.,03/01/2003,2002,A Cuenta,0.1900
+r.e.c.,02/07/2002,2001,Complementario,0.2750
+r.e.c.,03/01/2002,2001,A Cuenta,0.1800
+r.e.c.,03/07/2001,2000,Complementario,0.2450
+r.e.c.,02/01/2001,2000,A Cuenta,0.1700
+r.e.c.,03/07/2000,1999,Complementario,0.2150
+renta_4,26/11/2019,2019,A Cuenta,0.2000
+renta_4,08/05/2019,2018,Complementario,0.0800
+renta_4,06/11/2018,2018,A Cuenta,0.2200
+renta_4,07/05/2018,2017,Complementario,0.1000
+renta_4,13/11/2017,2017,A Cuenta,0.2000
+renta_4,09/05/2017,2016,Complementario,0.0940
+renta_4,04/11/2016,2016,A Cuenta,0.1025
+renta_4,09/05/2016,2015,Complementario,0.0384
+renta_4,30/10/2015,2015,A Cuenta,0.1340
+renta_4,30/04/2015,2014,Complementario,0.1016
+renta_4,31/10/2014,2014,A Cuenta,0.0630
+renta_4,06/05/2014,2013,Complementario,0.0210
+renta_4,11/11/2013,2013,A Cuenta,0.0500
+renta_4,13/11/2012,2012,A Cuenta,0.0750
+renta_4,07/12/2011,2011,A Cuenta,0.0500
+renta_4,06/05/2011,2010,Complementario,0.0500
+renta_4,07/12/2010,2010,A Cuenta,0.1000
+renta_4,30/11/2009,2009,A Cuenta,0.1000
+renta_4,12/05/2008,2007,Complementario,0.0500
+renta_4,11/02/2008,2008,A Cuenta,0.1500
+prosegur,16/10/2019,2016,A Cuenta,0.0276
+prosegur,14/10/2019,2018,Complementario,0.0320
+prosegur,09/07/2019,2018,A Cuenta,0.0320
+prosegur,08/04/2019,2018,A Cuenta,0.0320
+prosegur,16/01/2019,2018,A Cuenta,0.0320
+prosegur,11/10/2018,2017,A Cuenta,0.0291
+prosegur,12/07/2018,2017,A Cuenta,0.0291
+prosegur,11/04/2018,2018,A Cuenta,0.0291
+prosegur,18/01/2018,2017,A Cuenta,0.0291
+prosegur,28/12/2017,2017,A Cuenta,0.4537
+prosegur,16/10/2017,2016,A Cuenta,0.0276
+prosegur,13/07/2017,2016,A Cuenta,0.0276
+prosegur,12/04/2017,2015,A Cuenta,0.0276
+prosegur,17/01/2017,2015,A Cuenta,0.0276
+prosegur,12/12/2016,2016,Extraordinario,0.1003
+prosegur,14/10/2016,2015,A Cuenta,0.0276
+prosegur,15/07/2016,2015,A Cuenta,0.0276
+prosegur,15/04/2016,2014,A Cuenta,0.0267
+prosegur,15/01/2016,2014,A Cuenta,0.0267
+prosegur,16/10/2015,2014,A Cuenta,0.0267
+prosegur,17/07/2015,2014,A Cuenta,0.0267
+prosegur,17/04/2015,2013,Complementario,0.0267
+prosegur,19/01/2015,2013,A Cuenta,0.0267
+prosegur,16/10/2014,2013,A Cuenta,0.0267
+prosegur,17/07/2014,2013,A Cuenta,0.0267
+prosegur,22/04/2014,2012,A Cuenta,0.0267
+prosegur,20/01/2014,2012,A Cuenta,0.0267
+prosegur,18/10/2013,2012,A Cuenta,0.0267
+prosegur,19/07/2013,2012,A Cuenta,0.0267
+prosegur,18/04/2013,2011,Complementario,0.0255
+prosegur,17/01/2013,2011,A Cuenta,0.0255
+prosegur,18/10/2012,2012,A Cuenta,0.0255
+prosegur,19/07/2012,2011,A Cuenta,0.0255
+prosegur,17/04/2012,2010,A Cuenta,0.2637
+prosegur,19/01/2012,2010,A Cuenta,0.2641
+prosegur,17/10/2011,2010,A Cuenta,0.2628
+prosegur,14/07/2011,2010,A Cuenta,0.2551
+prosegur,15/04/2011,2009,Complementario,0.2305
+prosegur,18/01/2011,2009,A Cuenta,0.2300
+prosegur,15/10/2010,2009,A Cuenta,0.2300
+prosegur,16/07/2010,2009,A Cuenta,0.2300
+prosegur,19/04/2010,2008,A Cuenta,0.2092
+prosegur,18/01/2010,2008,A Cuenta,0.2092
+prosegur,16/10/2009,2008,A Cuenta,0.2092
+prosegur,14/07/2009,2008,A Cuenta,0.2092
+prosegur,20/04/2009,2007,Complementario,0.1841
+prosegur,15/01/2009,2007,A Cuenta,0.1824
+prosegur,14/10/2008,2007,A Cuenta,0.1811
+prosegur,14/07/2008,2007,A Cuenta,0.1809
+prosegur,14/04/2008,2006,A Cuenta,0.1645
+prosegur,15/01/2008,2006,A Cuenta,0.1631
+prosegur,11/10/2007,2006,A Cuenta,0.1626
+prosegur,12/07/2007,2006,A Cuenta,0.1626
+prosegur,16/04/2007,2005,A Cuenta,0.1341
+prosegur,12/01/2007,2005,A Cuenta,0.1341
+prosegur,11/10/2006,2005,A Cuenta,0.1341
+prosegur,12/07/2006,2005,A Cuenta,0.1341
+prosegur,15/09/2005,2004,Complementario,0.1650
+prosegur,05/07/2005,2004,A Cuenta,0.1650
+prosegur,16/09/2004,2003,Complementario,0.1226
+prosegur,05/05/2004,2003,A Cuenta,0.1228
+prosegur,15/09/2003,2002,Complementario,0.1117
+prosegur,07/05/2003,2002,A Cuenta,0.1118
+prosegur,16/09/2002,2001,Complementario,0.1117
+prosegur,25/04/2002,2001,A Cuenta,0.1116
+prosegur,10/07/2001,2000,Complementario,0.1149
+prosegur,10/01/2001,2000,A Cuenta,0.1147
+prosegur,04/07/2000,1999,Complementario,0.1147
+prosegur,10/01/2000,1999,A Cuenta,0.1146
+reno_m.sa,15/05/2019,2018,Unico,0.0070
+reno_m.sa,16/05/2018,2017,Unico,0.0031
+reno_m.sa,12/05/2016,2015,Unico,0.0052
+reno_m.sa,13/05/2002,2001,Unico,0.0165
+reno_m.sa,19/05/2001,2000,Unico,0.0310
+reno_m.sa,22/05/2000,1999,Unico,0.0189
+quabit,27/10/2006,2006,A Cuenta,0.2400
+prisa,19/03/2008,2007,Unico,0.1840
+prisa,27/03/2007,2006,Unico,0.1600
+prisa,28/03/2006,2005,Unico,0.1400
+prisa,22/03/2005,2004,Unico,0.1200
+prisa,23/04/2004,2003,Unico,0.1000
+prisa,16/04/2003,2002,Unico,0.0900
+prisa,25/04/2002,2001,Unico,0.0900
+prisa,03/05/2001,2000,Unico,0.1100
+pharma_mar,,,,0.0000
+pescanova,30/04/2012,2011,Unico,0.5500
+pescanova,14/04/2011,2010,Unico,0.5000
+pescanova,12/04/2010,2009,Unico,0.4500
+pescanova,05/05/2009,2008,Unico,0.4500
+pescanova,05/05/2008,2007,Unico,0.4500
+pescanova,03/05/2007,2006,Unico,0.4200
+pescanova,05/05/2006,2005,Unico,0.3400
+pescanova,29/04/2005,2004,Unico,0.2800
+pescanova,26/04/2004,2003,Unico,0.2800
+pescanova,28/04/2003,2002,Unico,0.2600
+pescanova,01/07/2002,2001,Unico,0.2800
+pescanova,09/04/2001,2000,Unico,32.0000
+pescanova,05/06/2000,1999,Unico,22.0000
+oryzon,,,,0.0000
+nicol.correa,10/06/2019,2018,Unico,0.1500
+nicol.correa,02/07/2008,2007,Unico,0.0500
+nicol.correa,10/06/2002,2001,Unico,0.0400
+nicol.correa,04/06/2001,2000,Unico,12.0000
+nicol.correa,03/07/2000,1999,Complementario,6.0000
+nicol.correa,15/03/2000,1999,A Cuenta,6.0000
+renta_corp.,15/11/2019,2019,A Cuenta,0.0373
+renta_corp.,30/04/2019,2018,Complementario,0.0592
+renta_corp.,06/11/2018,2018,A Cuenta,0.0342
+renta_corp.,07/05/2008,2007,Unico,0.4271
+renta_corp.,12/04/2007,2006,Unico,0.5693
+nh_hotels,14/06/2019,2018,Unico,0.1500
+nh_hotels,27/07/2018,2017,Unico,0.1000
+nh_hotels,27/07/2017,2016,A Cuenta,0.0500
+nh_hotels,08/07/2008,2007,Unico,0.2600
+nh_hotels,16/05/2006,2005,Unico,0.2600
+nh_hotels,01/07/2005,2004,Unico,0.2500
+nh_hotels,01/06/2004,2003,Unico,0.2500
+nh_hotels,07/07/2000,1999,Unico,0.2150
+ohl,06/06/2018,2018,A Cuenta,0.3490
+ohl,07/07/2016,2015,Unico,0.0465
+ohl,05/06/2015,2014,Unico,0.3513
+ohl,02/06/2014,2013,Unico,0.6777
+ohl,03/06/2013,2012,Unico,0.6519
+ohl,01/06/2012,2011,Unico,0.5597
+ohl,01/06/2011,2010,Unico,0.4903
+ohl,01/06/2010,2009,Unico,0.4306
+ohl,15/06/2009,2008,Unico,0.4526
+ohl,02/06/2008,2007,Unico,0.4013
+ohl,22/05/2007,2006,Unico,0.3003
+ohl,03/07/2006,2005,Unico,0.2881
+ohl,15/06/2005,2004,Unico,0.1602
+ohl,15/06/2004,2003,Unico,0.1355
+ohl,15/06/2003,2002,Unico,0.1205
+ohl,20/05/2002,2001,Unico,0.1300
+ohl,16/05/2001,2000,Unico,0.2053
+ohl,01/06/2000,1999,Unico,0.1713
+nyesa,16/07/2007,2006,Unico,0.1200
+nyesa,17/07/2006,2005,Unico,0.1200
+nyesa,15/07/2005,2004,Unico,0.1100
+nyesa,15/07/2004,2003,Unico,0.1000
+nyesa,15/07/2003,2002,Unico,0.0900
+nyesa,15/07/2002,2001,Unico,0.0900
+nyesa,15/07/2001,2000,Unico,14.0000
+nyesa,17/07/2000,1999,Unico,14.0000
+neinor_h.,,,,0.0000
+nextil,,,,0.0000
+prim,18/07/2019,2018,Complementario,0.4679
+prim,16/01/2019,2018,A Cuenta,0.1100
+prim,10/07/2018,2017,Complementario,0.4679
+prim,16/01/2018,2017,A Cuenta,0.1100
+prim,18/07/2017,2016,Complementario,0.4000
+prim,18/01/2017,2016,A Cuenta,0.0600
+prim,19/07/2016,2015,Complementario,0.3200
+prim,19/01/2016,2015,A Cuenta,0.0550
+prim,16/07/2015,2014,Complementario,0.4762
+prim,16/01/2015,2014,A Cuenta,0.0550
+prim,17/07/2014,2013,Complementario,0.1518
+prim,16/01/2014,2013,A Cuenta,0.0500
+prim,16/07/2013,2012,Complementario,0.1430
+prim,16/01/2013,2012,A Cuenta,0.0500
+prim,12/07/2012,2011,Complementario,0.1402
+prim,18/01/2012,2011,A Cuenta,0.0500
+prim,12/07/2011,2010,Complementario,0.1402
+prim,21/01/2011,2010,A Cuenta,0.0500
+prim,09/07/2010,2009,Complementario,0.1402
+prim,29/12/2009,2009,A Cuenta,0.0500
+prim,10/07/2009,2008,Complementario,0.1259
+prim,12/01/2009,2008,A Cuenta,0.0500
+prim,18/07/2008,2007,Complementario,0.1030
+prim,10/01/2008,2007,A Cuenta,0.0500
+prim,10/10/2007,2007,A Cuenta,0.0500
+prim,10/07/2007,2006,Complementario,0.0850
+prim,10/04/2007,2006,A Cuenta,0.0400
+prim,10/01/2007,2006,A Cuenta,0.0400
+prim,04/07/2006,2005,Complementario,0.0700
+prim,17/01/2006,2005,A Cuenta,0.1200
+prim,15/07/2005,2004,Unico,0.1500
+prim,09/07/2004,2003,Unico,0.0500
+prim,15/07/2003,2002,Unico,0.1500
+prim,19/07/2002,2001,Unico,0.1548
+prim,09/07/2001,2000,Unico,0.3135
+prim,03/07/2000,1999,Unico,0.3005
+naturhouse,16/12/2019,2019,A Cuenta,0.0600
+naturhouse,16/09/2019,2019,A Cuenta,0.0700
+naturhouse,15/07/2019,2019,A Cuenta,0.0600
+naturhouse,15/05/2019,2018,Complementario,0.0600
+naturhouse,14/12/2018,2018,A Cuenta,0.0500
+naturhouse,14/09/2018,2018,A Cuenta,0.1700
+naturhouse,07/05/2018,2017,Complementario,0.1200
+naturhouse,08/09/2017,2017,A Cuenta,0.2000
+naturhouse,05/05/2017,2016,A Cuenta,0.1800
+naturhouse,15/09/2016,2016,A Cuenta,0.2000
+naturhouse,04/05/2016,2015,A Cuenta,0.0825
+naturhouse,04/09/2015,2015,A Cuenta,0.0500
+naturgy,12/11/2019,2019,A Cuenta,0.4730
+naturgy,20/03/2019,2018,Complementario,0.5700
+naturgy,27/11/2018,2018,A Cuenta,0.4500
+naturgy,31/07/2018,2018,A Cuenta,0.2800
+naturgy,05/07/2018,2017,Complementario,0.6700
+naturgy,27/09/2017,2017,A Cuenta,0.3300
+naturgy,27/06/2017,2016,Complementario,0.6700
+naturgy,27/09/2016,2016,A Cuenta,0.3300
+naturgy,30/06/2016,2015,Complementario,0.5922
+naturgy,08/01/2016,2015,A Cuenta,0.4078
+naturgy,01/07/2015,2014,Complementario,0.5110
+naturgy,08/01/2015,2014,A Cuenta,0.3970
+naturgy,01/07/2014,2013,Complementario,0.5040
+naturgy,08/01/2014,2013,A Cuenta,0.3930
+naturgy,01/07/2013,2012,Complementario,0.5030
+naturgy,08/01/2013,2012,A Cuenta,0.3910
+naturgy,30/05/2012,2011,Complementario,0.4670
+naturgy,09/01/2012,2011,A Cuenta,0.3630
+naturgy,31/05/2011,2010,Complementario,0.4530
+naturgy,07/01/2011,2010,A Cuenta,0.3520
+naturgy,01/07/2010,2009,Complementario,0.4400
+naturgy,08/01/2010,2009,A Cuenta,0.3520
+naturgy,03/07/2009,2009,n.a. (140),0.1000
+naturgy,03/07/2009,2008,Complementario,0.4000
+naturgy,08/01/2009,2008,A Cuenta,0.4800
+naturgy,01/07/2008,2007,Complementario,0.7100
+naturgy,08/01/2008,2007,A Cuenta,0.4300
+naturgy,02/07/2007,2006,Complementario,0.6100
+naturgy,09/01/2007,2006,A Cuenta,0.3700
+naturgy,04/07/2006,2005,Complementario,0.5300
+naturgy,10/01/2006,2005,A Cuenta,0.3100
+naturgy,01/07/2005,2004,Complementario,0.4400
+naturgy,11/01/2005,2004,A Cuenta,0.2700
+naturgy,01/07/2004,2003,Complementario,0.3875
+naturgy,12/01/2004,2003,A Cuenta,0.2125
+naturgy,01/07/2003,2002,Complementario,0.2300
+naturgy,10/01/2003,2002,A Cuenta,0.1700
+naturgy,01/07/2002,2001,Complementario,0.1900
+naturgy,10/01/2002,2001,A Cuenta,0.1400
+naturgy,02/07/2001,2000,Complementario,0.1600
+naturgy,11/01/2001,2000,A Cuenta,0.1200
+naturgy,03/07/2000,1999,Complementario,0.1350
+naturgy,11/01/2000,1999,A Cuenta,0.1050
+montebalito,14/02/2007,2006,A Cuenta,0.2000
+montebalito,27/11/2006,2006,A Cuenta,0.2000
+montebalito,19/11/2004,2003,Unico,0.1200
+montebalito,12/11/2003,2002,Unico,0.1100
+montebalito,15/10/2002,2001,Complementario,0.1000
+montebalito,28/12/2001,2001,A Cuenta,0.0967
+montebalito,02/12/2000,1999,Unico,0.2800
+miquel_costa,12/12/2019,2019,A Cuenta,0.1110
+miquel_costa,16/10/2019,2019,A Cuenta,0.1110
+miquel_costa,11/07/2019,2018,Complementario,0.1219
+miquel_costa,17/04/2019,2018,A Cuenta,0.1030
+miquel_costa,21/12/2018,2018,A Cuenta,0.1016
+miquel_costa,16/10/2018,2018,A Cuenta,0.1616
+miquel_costa,12/07/2018,2017,Complementario,0.1817
+miquel_costa,17/04/2018,2017,A Cuenta,0.1551
+miquel_costa,14/12/2017,2017,A Cuenta,0.1539
+miquel_costa,17/10/2017,2017,A Cuenta,0.1529
+miquel_costa,13/07/2017,2016,Complementario,0.1511
+miquel_costa,19/04/2017,2016,A Cuenta,0.1241
+miquel_costa,15/12/2016,2016,A Cuenta,0.1224
+miquel_costa,13/10/2016,2016,A Cuenta,0.2133
+miquel_costa,14/07/2016,2015,Complementario,0.2045
+miquel_costa,14/04/2016,2015,A Cuenta,0.1871
+miquel_costa,16/12/2015,2015,A Cuenta,0.1869
+miquel_costa,14/10/2015,2015,A Cuenta,0.1865
+miquel_costa,16/07/2015,2014,Complementario,0.1859
+miquel_costa,15/04/2015,2014,A Cuenta,0.1517
+miquel_costa,17/12/2014,2014,A Cuenta,0.1521
+miquel_costa,15/10/2014,2014,A Cuenta,0.1446
+miquel_costa,17/07/2014,2013,Complementario,0.1606
+miquel_costa,16/04/2014,2013,A Cuenta,0.1365
+miquel_costa,17/12/2013,2013,A Cuenta,0.1365
+miquel_costa,15/10/2013,2013,A Cuenta,0.1365
+miquel_costa,17/07/2013,2012,Complementario,0.1526
+miquel_costa,16/04/2013,2012,A Cuenta,0.1285
+miquel_costa,18/12/2012,2012,A Cuenta,0.1285
+miquel_costa,18/10/2012,2012,A Cuenta,0.1269
+miquel_costa,19/07/2012,2011,Complementario,0.1506
+miquel_costa,16/04/2012,2011,A Cuenta,0.1269
+miquel_costa,20/12/2011,2011,A Cuenta,0.1189
+miquel_costa,04/10/2011,2011,A Cuenta,0.1586
+miquel_costa,19/07/2011,2010,Complementario,0.1903
+miquel_costa,14/04/2011,2010,A Cuenta,0.1586
+miquel_costa,17/12/2010,2010,A Cuenta,0.1586
+miquel_costa,14/10/2010,2010,A Cuenta,0.1571
+miquel_costa,16/07/2010,2009,Complementario,0.1780
+miquel_costa,15/04/2010,2009,A Cuenta,0.1571
+miquel_costa,17/12/2009,2009,A Cuenta,0.1518
+miquel_costa,15/07/2009,2008,Complementario,0.1780
+miquel_costa,16/04/2009,2008,A Cuenta,0.1496
+miquel_costa,17/12/2008,2008,A Cuenta,0.1496
+miquel_costa,15/07/2008,2007,Complementario,0.1754
+miquel_costa,17/04/2008,2007,A Cuenta,0.1480
+miquel_costa,17/12/2007,2007,A Cuenta,0.1480
+miquel_costa,12/07/2007,2006,Complementario,0.1748
+miquel_costa,17/04/2007,2006,A Cuenta,0.1491
+miquel_costa,20/12/2006,2006,A Cuenta,0.1490
+miquel_costa,12/07/2006,2005,Complementario,0.1744
+miquel_costa,12/04/2006,2005,A Cuenta,0.1485
+miquel_costa,20/12/2005,2005,A Cuenta,0.1483
+miquel_costa,12/07/2005,2004,Complementario,0.1635
+miquel_costa,15/04/2005,2004,A Cuenta,0.1482
+miquel_costa,03/12/2004,2004,A Cuenta,0.2223
+miquel_costa,15/07/2004,2003,Complementario,0.2223
+miquel_costa,15/04/2004,2003,A Cuenta,0.1916
+miquel_costa,15/12/2003,2003,A Cuenta,0.1914
+miquel_costa,10/07/2003,2002,Complementario,0.1901
+miquel_costa,10/04/2003,2002,A Cuenta,0.1676
+miquel_costa,23/12/2002,2002,A Cuenta,0.1650
+miquel_costa,03/07/2002,2001,Complementario,0.2225
+miquel_costa,22/04/2002,2001,A Cuenta,0.1867
+miquel_costa,21/12/2001,2001,A Cuenta,0.1881
+miquel_costa,11/07/2001,2000,Complementario,0.2843
+miquel_costa,10/04/2001,2000,A Cuenta,0.2524
+miquel_costa,11/12/2000,2000,A Cuenta,0.2524
+miquel_costa,27/06/2000,1999,Complementario,0.2404
+miquel_costa,28/04/2000,1999,A Cuenta,0.2404
+metrovacesa,,,,0.0000
+merlin_prop.,28/10/2019,2019,A Cuenta,0.2000
+merlin_prop.,07/05/2019,2018,Complementario,0.2027
+merlin_prop.,25/10/2018,2018,A Cuenta,0.2000
+merlin_prop.,25/05/2018,2017,A Cuenta,0.0205
+merlin_prop.,25/10/2017,2017,A Cuenta,0.2000
+merlin_prop.,18/05/2017,2016,A Cuenta,0.1007
+merlin_prop.,25/10/2016,2015,A Cuenta,0.0200
+merlin_prop.,27/04/2016,2015,A Cuenta,0.0057
+merlin_prop.,15/10/2015,2015,A Cuenta,0.0775
+masmovil,30/10/2013,2012,Complementario,0.4704
+masmovil,25/06/2013,2012,A Cuenta,0.1176
+masmovil,26/10/2012,2011,A Cuenta,0.1176
+melia_hotels,09/07/2019,2018,Unico,0.1830
+melia_hotels,10/07/2018,2017,Unico,0.1681
+melia_hotels,11/07/2017,2016,Unico,0.1315
+melia_hotels,19/07/2016,2015,Unico,0.0400
+melia_hotels,05/08/2015,2014,Unico,0.0300
+melia_hotels,05/08/2014,2013,Unico,0.0400
+melia_hotels,08/08/2013,2012,Unico,0.0400
+melia_hotels,10/08/2012,2011,Unico,0.0434
+melia_hotels,10/08/2011,2010,Unico,0.0542
+melia_hotels,01/07/2010,2009,Unico,0.0423
+melia_hotels,01/07/2009,2008,Unico,0.0622
+melia_hotels,03/07/2008,2007,Unico,0.1780
+melia_hotels,03/07/2007,2006,Unico,0.1488
+melia_hotels,03/07/2006,2005,Unico,0.0830
+melia_hotels,05/07/2005,2004,Unico,0.0635
+melia_hotels,01/07/2004,2003,Extraordinario,0.0471
+melia_hotels,01/07/2003,2002,Unico,0.0118
+melia_hotels,29/05/2002,2001,Unico,0.0700
+melia_hotels,10/07/2001,2000,Unico,24.0000
+melia_hotels,03/07/2000,1999,Unico,0.1205
+logista,29/08/2019,2019,A Cuenta,0.3700
+logista,29/03/2019,2019,Complementario,0.7700
+logista,30/08/2018,2018,A Cuenta,0.3500
+logista,28/03/2018,2017,Complementario,0.7500
+logista,30/08/2017,2017,A Cuenta,0.3000
+logista,29/03/2017,2016,Complementario,0.6500
+logista,29/08/2016,2016,A Cuenta,0.2500
+logista,23/03/2016,2015,Complementario,0.5000
+logista,27/08/2015,2015,A Cuenta,0.2400
+mediaset,30/04/2019,2018,Unico,0.3156
+mediaset,03/05/2018,2017,A Cuenta,0.5029
+mediaset,03/05/2018,2017,Extraordinario,0.1003
+mediaset,09/05/2017,2016,Extraordinario,0.0847
+mediaset,09/05/2017,2016,A Cuenta,0.4372
+mediaset,19/04/2016,2015,A Cuenta,0.4974
+mediaset,04/05/2015,2014,A Cuenta,0.1010
+mediaset,04/05/2015,2014,Unico,0.0290
+mediaset,18/04/2012,2011,Unico,0.1380
+mediaset,04/05/2011,2010,A Cuenta,0.2445
+mediaset,04/05/2011,2010,Unico,0.1055
+mediaset,10/03/2010,2009,A Cuenta,0.1993
+mediaset,14/05/2009,2008,Unico,0.8650
+mediaset,07/05/2008,2007,Unico,1.3040
+mediaset,03/05/2007,2006,Unico,1.2814
+mediaset,25/04/2006,2005,Unico,1.1830
+mediaset,10/05/2005,2004,Unico,0.7000
+mapfre,23/12/2019,2019,A Cuenta,0.0606
+mapfre,25/06/2019,2018,Complementario,0.0857
+mapfre,20/12/2018,2018,A Cuenta,0.0600
+mapfre,14/06/2018,2017,Complementario,0.0850
+mapfre,14/12/2017,2017,A Cuenta,0.0605
+mapfre,20/06/2017,2016,Complementario,0.0859
+mapfre,23/12/2016,2016,A Cuenta,0.0606
+mapfre,24/06/2016,2015,Complementario,0.0700
+mapfre,15/12/2015,2015,A Cuenta,0.0600
+mapfre,18/06/2015,2014,Complementario,0.0800
+mapfre,15/12/2014,2014,A Cuenta,0.0600
+mapfre,20/06/2014,2013,Complementario,0.0800
+mapfre,20/12/2013,2013,A Cuenta,0.0500
+mapfre,28/06/2013,2012,Complementario,0.0700
+mapfre,12/12/2012,2012,A Cuenta,0.0400
+mapfre,29/06/2012,2011,Complementario,0.0800
+mapfre,14/12/2011,2011,A Cuenta,0.0700
+mapfre,22/06/2011,2010,Complementario,0.0800
+mapfre,01/12/2010,2010,A Cuenta,0.0700
+mapfre,16/06/2010,2009,Complementario,0.0800
+mapfre,02/12/2009,2009,A Cuenta,0.0700
+mapfre,02/04/2009,2008,Complementario,0.0800
+mapfre,29/11/2008,2008,A Cuenta,0.0700
+mapfre,04/06/2008,2007,Complementario,0.0700
+mapfre,08/11/2007,2007,A Cuenta,0.0600
+mapfre,04/05/2007,2006,Complementario,0.0500
+mapfre,17/11/2006,2006,A Cuenta,0.0400
+mapfre,05/05/2006,2005,Complementario,0.1500
+mapfre,18/11/2005,2005,A Cuenta,0.1700
+mapfre,14/03/2005,2004,Complementario,0.1200
+mapfre,19/11/2004,2004,A Cuenta,0.1500
+mapfre,18/03/2004,2003,Complementario,0.1000
+mapfre,14/11/2003,2003,A Cuenta,0.1100
+mapfre,02/06/2003,2002,Complementario,0.1000
+mapfre,16/12/2002,2002,A Cuenta,0.0900
+mapfre,01/06/2002,2001,Complementario,0.1000
+indra_a,08/07/2014,2013,Unico,0.3400
+indra_a,09/07/2013,2012,Unico,0.3400
+indra_a,04/07/2012,2011,Unico,0.6800
+indra_a,04/07/2011,2010,Unico,0.6800
+indra_a,05/07/2010,2009,Unico,0.6600
+indra_a,07/07/2009,2008,Unico,0.6100
+indra_a,08/07/2008,2007,A Cuenta,0.5000
+indra_a,02/07/2007,2006,Complementario,0.4300
+indra_a,16/04/2007,2006,A Cuenta,0.3500
+indra_a,03/07/2006,2005,Unico,0.3900
+indra_a,15/07/2005,2004,Complementario,0.1950
+indra_a,15/02/2005,2004,A Cuenta,0.3260
+indra_a,15/07/2004,2003,Unico,0.1630
+indra_a,15/07/2003,2002,Unico,0.1090
+indra_a,01/07/2002,2001,Unico,0.0846
+indra_a,01/07/2001,2000,Unico,0.0674
+indra_a,20/06/2000,1999,Complementario,0.0541
+mapfre,14/12/2001,2001,A Cuenta,0.0900
+mapfre,01/06/2001,2000,Complementario,50.0000
+mapfre,15/12/2000,2000,A Cuenta,45.0000
+mapfre,01/06/2000,1999,Complementario,48.5000
+inm.colonial,01/07/2019,2018,A Cuenta,0.2000
+inm.colonial,18/06/2018,2017,A Cuenta,0.1800
+inm.colonial,07/07/2017,2016,A Cuenta,0.1650
+inm.colonial,30/06/2016,2015,Unico,0.0150
+inm.colonial,31/03/2005,2004,Unico,0.0275
+inm.colonial,20/02/2004,2003,Unico,0.0275
+inm.colonial,27/01/2003,2002,Unico,0.0260
+inditex,04/11/2019,2018,Complementario,0.4400
+inditex,02/05/2019,2018,A Cuenta,0.4400
+inditex,02/11/2018,2017,Extraordinario,0.2100
+inditex,02/11/2018,2017,Complementario,0.1650
+inditex,02/05/2018,2017,A Cuenta,0.3750
+inditex,02/11/2017,2016,Complementario,0.1800
+inditex,02/11/2017,2016,Complementario,0.1600
+inditex,02/05/2017,2016,A Cuenta,0.3400
+inditex,02/11/2016,2015,Complementario,0.1600
+inditex,02/11/2016,2015,Extraordinario,0.1400
+inditex,03/05/2016,2015,A Cuenta,0.3000
+inditex,03/11/2015,2014,Complementario,0.1420
+inditex,03/11/2015,2014,Extraordinario,0.1180
+inditex,04/05/2015,2014,A Cuenta,0.2600
+inditex,03/11/2014,2013,Extraordinario,0.1000
+liberbank,13/05/2019,2018,A Cuenta,0.0072
+lingotes,06/06/2019,2018,Unico,0.7000
+lingotes,06/06/2018,2017,Unico,0.7037
+lingotes,19/05/2017,2016,Unico,0.8025
+lingotes,20/05/2016,2015,Unico,0.4938
+lingotes,20/05/2015,2014,Unico,0.4375
+lingotes,20/05/2014,2013,Complementario,0.1266
+lingotes,04/11/2013,2013,A Cuenta,0.1266
+lingotes,21/05/2012,2011,Unico,0.2532
+lingotes,16/05/2011,2010,Unico,0.2469
+lingotes,22/12/2009,2008,Unico,0.2439
+lingotes,15/07/2008,2007,Unico,0.2439
+lingotes,16/07/2007,2006,Unico,0.1000
+lingotes,17/07/2006,2005,Unico,0.2706
+lingotes,01/07/2005,2004,Unico,0.1765
+lingotes,01/07/2004,2003,Unico,0.2706
+lingotes,15/07/2003,2002,Unico,0.1765
+inditex,03/11/2014,2013,Complementario,0.1420
+inditex,02/05/2014,2013,A Cuenta,1.2100
+inditex,04/11/2013,2012,Extraordinario,0.3000
+inditex,04/11/2013,2012,Complementario,0.8000
+inditex,02/05/2013,2012,A Cuenta,1.1000
+inditex,02/11/2012,2011,Complementario,0.7000
+inditex,02/11/2012,2011,Extraordinario,0.2000
+inditex,02/05/2012,2011,A Cuenta,0.9000
+inditex,02/11/2011,2010,Complementario,0.8000
+inditex,02/05/2011,2010,A Cuenta,0.8000
+inditex,02/11/2010,2009,Extraordinario,0.1000
+inditex,02/11/2010,2009,Complementario,0.5000
+inditex,03/05/2010,2009,A Cuenta,0.6000
+inditex,02/11/2009,2008,Complementario,0.5000
+inditex,04/05/2009,2008,A Cuenta,0.5500
+inditex,01/08/2008,2007,Unico,1.0500
+inditex,01/08/2007,2006,Unico,0.8432
+inditex,21/07/2006,2005,Unico,0.5200
+inditex,21/07/2006,2005,Extraordinario,0.1500
+inditex,21/07/2005,2004,Unico,0.3000
+inditex,21/07/2005,2004,Extraordinario,0.1800
+inditex,22/07/2004,2003,Extraordinario,0.2100
+inditex,22/07/2004,2003,Unico,0.1400
+inm.del_sur,01/07/2019,2019,Complementario,0.1500
+inm.del_sur,15/01/2019,2018,A Cuenta,0.1200
+inm.del_sur,02/07/2018,2017,Complementario,0.0600
+inm.del_sur,15/01/2018,2017,A Cuenta,0.0500
+inm.del_sur,03/07/2017,2016,Complementario,0.0600
+inm.del_sur,16/01/2017,2016,A Cuenta,0.0500
+inm.del_sur,01/07/2016,2015,Complementario,0.0700
+inm.del_sur,18/01/2016,2015,A Cuenta,0.0600
+inm.del_sur,01/07/2015,2014,Unico,0.1000
+inm.del_sur,01/07/2014,2013,Unico,0.0700
+inm.del_sur,16/07/2012,2011,Complementario,0.0700
+inm.del_sur,16/01/2012,2011,A Cuenta,0.0700
+inm.del_sur,12/07/2011,2010,Complementario,0.1000
+inm.del_sur,15/01/2011,2010,A Cuenta,0.1000
+lingotes,01/07/2002,2001,Unico,0.1803
+lingotes,02/07/2001,2000,Unico,0.1803
+lingotes,01/07/2000,1999,Unico,28.0000
+inditex,24/07/2003,2002,Unico,0.1400
+inditex,26/07/2002,2001,Unico,0.1100
+inm.del_sur,15/07/2010,2009,Complementario,0.1900
+inm.del_sur,15/01/2010,2009,A Cuenta,0.1400
+inm.del_sur,15/07/2009,2008,Complementario,0.2300
+inm.del_sur,15/01/2009,2008,A Cuenta,0.1500
+inm.del_sur,16/07/2008,2007,Complementario,0.2650
+inm.del_sur,15/01/2008,2007,A Cuenta,0.2400
+inm.del_sur,16/07/2007,2006,Complementario,0.2680
+inm.del_sur,15/01/2007,2006,A Cuenta,0.2520
+inm.del_sur,15/07/2006,2005,Complementario,1.3400
+inm.del_sur,16/01/2006,2005,A Cuenta,1.2600
+inm.del_sur,15/07/2005,2004,Complementario,1.4400
+inm.del_sur,15/01/2005,2004,A Cuenta,1.2600
+inm.del_sur,15/07/2004,2003,Complementario,1.4500
+inm.del_sur,15/01/2004,2003,A Cuenta,1.2500
+inm.del_sur,15/07/2003,2002,Complementario,1.2000
+inm.del_sur,15/01/2003,2002,A Cuenta,1.2000
+inm.del_sur,15/07/2002,2001,Complementario,1.2200
+inm.del_sur,15/01/2002,2001,A Cuenta,1.1800
+inm.del_sur,16/07/2001,2000,Complementario,1.3182
+inm.del_sur,15/01/2001,2000,A Cuenta,1.0800
+inm.del_sur,15/07/2000,1999,Complementario,160.0000
+inm.del_sur,15/01/2000,1999,A Cuenta,130.0000
+iberdrola,01/08/2019,2018,Complementario,0.2000
+iberdrola,05/02/2019,2018,A Cuenta,0.1510
+iberdrola,25/07/2018,2017,Complementario,0.1860
+iberdrola,29/01/2018,2017,A Cuenta,0.1400
+iberdrola,21/07/2017,2016,Complementario,0.1470
+iberdrola,07/07/2017,2016,A Cuenta,0.0300
+iberdrola,23/01/2017,2016,A Cuenta,0.1350
+iberdrola,22/07/2016,2015,Complementario,0.1240
+iberdrola,08/07/2016,2015,A Cuenta,0.0300
+iberdrola,05/07/2016,2015,Unico,0.1390
+iberdrola,12/01/2016,2015,A Cuenta,0.1270
+iberdrola,03/07/2015,2014,A Cuenta,0.1140
+iberdrola,03/07/2015,2014,Complementario,0.0300
+iberdrola,02/12/2014,2014,A Cuenta,0.1270
+iberdrola,03/07/2014,2013,Complementario,0.1140
+iberdrola,03/07/2014,2013,A Cuenta,0.0300
+iberdrola,11/01/2014,2013,A Cuenta,0.1260
+iberdrola,03/07/2013,2012,A Cuenta,0.0300
+iberdrola,03/07/2013,2013,Complementario,0.1300
+iberdrola,03/01/2013,2013,A Cuenta,0.1430
+iberdrola,04/07/2012,2011,A Cuenta,0.0300
+iberdrola,04/07/2012,2011,Complementario,0.1600
+iberdrola,03/01/2012,2011,A Cuenta,0.1460
+iberdrola,13/07/2011,2010,A Cuenta,0.0300
+iberdrola,13/07/2011,2010,Complementario,0.1560
+iberpapel,20/12/2019,2019,A Cuenta,0.4000
+iberpapel,10/05/2019,2018,Complementario,0.3000
+iberpapel,11/12/2018,2018,A Cuenta,0.4000
+iberpapel,11/05/2018,2017,Complementario,0.2500
+iberpapel,02/02/2018,2017,A Cuenta,0.3000
+iberpapel,15/06/2017,2016,Complementario,0.3500
+iberpapel,10/03/2017,2016,A Cuenta,0.3000
+iberpapel,04/05/2016,2015,Complementario,0.3500
+iberpapel,10/03/2016,2015,A Cuenta,0.3000
+iberpapel,10/07/2015,2014,Complementario,0.2500
+iberpapel,10/03/2015,2014,A Cuenta,0.2000
+iberpapel,06/06/2014,2013,Complementario,0.2000
+iberpapel,04/03/2014,2013,A Cuenta,0.1500
+iberpapel,18/02/2013,2012,A Cuenta,0.2500
+iberpapel,15/02/2012,2011,A Cuenta,0.3000
+iberpapel,14/02/2011,2010,A Cuenta,0.3000
+grifols_b,04/12/2019,2019,Complementario,0.2000
+grifols_b,11/06/2019,2018,Complementario,0.1451
+grifols_b,11/06/2019,2018,Extraordinario,0.0101
+grifols_b,04/12/2018,2018,A Cuenta,0.2000
+grifols_b,05/06/2018,2017,Extraordinario,0.0101
+grifols_b,05/06/2018,2017,Complementario,0.2040
+grifols_b,05/12/2017,2017,A Cuenta,0.1800
+grifols_b,01/06/2017,2017,Extraordinario,0.0100
+grifols_b,01/06/2017,2016,Complementario,0.1356
+grifols_b,07/12/2016,2016,A Cuenta,0.1800
+grifols_b,07/06/2016,2015,A Cuenta,0.1326
+grifols_b,07/06/2016,2015,Extraordinario,0.0102
+grifols_b,10/12/2015,2015,A Cuenta,0.3500
+grifols_b,08/06/2015,2014,A Cuenta,0.3052
+grifols_b,04/12/2014,2014,A Cuenta,0.2514
+grifols_b,05/06/2014,2013,A Cuenta,0.2006
+grifols_b,05/06/2014,2013,Unico,0.0100
+iag,02/12/2019,2019,A Cuenta,0.1450
+iag,08/07/2019,2018,Complementario,0.1650
+iag,03/12/2018,2018,A Cuenta,0.1450
+iag,04/12/2017,2017,A Cuenta,0.1250
+iag,03/07/2017,2016,Complementario,0.1250
+iag,05/12/2016,2016,A Cuenta,0.1100
+iag,04/07/2016,2015,A Cuenta,0.0500
+iag,07/12/2015,2015,A Cuenta,0.1000
+grifols,04/12/2019,2019,Complementario,0.2000
+grifols,11/06/2019,2018,Complementario,0.1451
+grifols,04/12/2018,2018,A Cuenta,0.2000
+grifols,05/06/2018,2017,Complementario,0.2040
+grifols,05/12/2017,2017,A Cuenta,0.1800
+grifols,01/06/2017,2016,Complementario,0.1356
+grifols,07/12/2016,2016,A Cuenta,0.1800
+grifols,07/06/2016,2015,A Cuenta,0.1326
+grifols,10/12/2015,2015,A Cuenta,0.3500
+grifols,08/06/2015,2014,A Cuenta,0.2950
+grifols,04/12/2014,2014,A Cuenta,0.2514
+grifols,05/06/2014,2013,A Cuenta,0.2006
+grifols,05/06/2013,2013,A Cuenta,0.2000
+grifols,01/07/2010,2009,Complementario,0.1278
+grifols,18/12/2009,2009,A Cuenta,0.1530
+grifols,02/06/2009,2008,Unico,0.2320
+grifols,23/06/2008,2007,Unico,0.1650
+iberdrola,03/12/2010,2010,A Cuenta,0.1460
+iberdrola,12/06/2010,2010,Complementario,0.1910
+iberdrola,30/12/2009,2009,A Cuenta,0.1430
+iberdrola,01/07/2009,2008,Complementario,0.1840
+iberdrola,02/01/2009,2008,A Cuenta,0.1430
+iberdrola,01/07/2008,2007,Complementario,0.1560
+iberdrola,02/01/2008,2007,A Cuenta,0.1150
+iberdrola,02/07/2007,2006,Complementario,0.5930
+iberdrola,02/01/2007,2006,A Cuenta,0.4500
+iberdrola,03/07/2006,2005,Complementario,0.5181
+iberdrola,02/01/2006,2005,A Cuenta,0.3670
+iberdrola,01/07/2005,2004,Complementario,0.4421
+iberdrola,03/01/2005,2004,A Cuenta,0.3260
+iberdrola,01/07/2004,2003,Complementario,0.3868
+iberdrola,02/01/2004,2003,A Cuenta,0.2860
+iberdrola,01/07/2003,2002,Complementario,0.3505
+iberdrola,02/01/2003,2002,A Cuenta,0.2600
+iberdrola,01/07/2002,2001,Complementario,0.3388
+iberdrola,02/01/2002,2001,A Cuenta,0.2461
+iberdrola,02/07/2001,2000,Complementario,0.3155
+iberdrola,02/01/2001,2000,A Cuenta,0.2300
+iberdrola,03/07/2000,1999,Complementario,0.2843
+iberdrola,03/01/2000,1999,A Cuenta,0.2164
+iberpapel,22/12/2009,2009,A Cuenta,0.0800
+iberpapel,26/01/2009,2008,A Cuenta,0.0800
+iberpapel,31/01/2008,2007,A Cuenta,0.2000
+iberpapel,31/01/2007,2006,A Cuenta,0.1500
+iberpapel,30/01/2006,2005,A Cuenta,0.1500
+iberpapel,26/01/2005,2004,Unico,0.1500
+iberpapel,26/01/2004,2003,Unico,0.1500
+iberpapel,31/01/2003,2002,Unico,0.2400
+iberpapel,08/07/2002,2001,Complementario,0.2395
+iberpapel,11/02/2002,2001,A Cuenta,0.2400
+iberpapel,06/07/2001,2000,Complementario,0.1803
+iberpapel,22/01/2001,2000,A Cuenta,0.1803
+iberpapel,10/10/2000,2000,A Cuenta,0.0601
+iberpapel,10/10/2000,1999,Complementario,0.0601
+iberpapel,10/07/2000,1999,A Cuenta,0.1202
+iberpapel,04/01/2000,1999,A Cuenta,0.0601
+grifols_b,05/06/2013,2013,A Cuenta,0.2000
+grifols_b,29/05/2013,2012,Unico,0.0100
+grifols,02/07/2007,2006,Complementario,0.0603
+grenergy,,,,0.0000
+gestamp,05/07/2019,2018,Complementario,0.0700
+gestamp,14/01/2019,2018,A Cuenta,0.0650
+gestamp,06/07/2018,2017,Unico,0.1250
+gr.c.occiden,09/10/2019,2019,A Cuenta,0.1588
+gr.c.occiden,10/07/2019,2019,A Cuenta,0.1588
+gr.c.occiden,08/05/2019,2018,Complementario,0.3688
+gr.c.occiden,13/02/2019,2018,A Cuenta,0.1512
+gr.c.occiden,10/10/2018,2018,A Cuenta,0.1512
+gr.c.occiden,11/07/2018,2018,A Cuenta,0.1512
+gr.c.occiden,09/05/2018,2017,Complementario,0.3431
+gr.c.occiden,14/02/2018,2017,A Cuenta,0.1440
+gr.c.occiden,11/10/2017,2017,A Cuenta,0.1440
+gr.c.occiden,12/07/2017,2017,A Cuenta,0.1440
+gr.c.occiden,10/05/2017,2016,Complementario,0.3119
+gr.c.occiden,15/02/2017,2016,A Cuenta,0.1371
+gr.c.occiden,13/10/2016,2016,A Cuenta,0.1371
+gr.c.occiden,13/07/2016,2016,A Cuenta,0.1371
+gr.c.occiden,11/05/2016,2015,Complementario,0.2901
+gr.c.occiden,10/02/2016,2015,A Cuenta,0.1275
+gr.c.occiden,14/10/2015,2015,A Cuenta,0.1275
+gr.c.occiden,15/07/2015,2015,A Cuenta,0.1275
+gr.c.occiden,14/05/2015,2014,Complementario,0.2637
+gr.c.occiden,12/02/2015,2014,A Cuenta,0.1214
+gr.c.occiden,09/10/2014,2014,A Cuenta,0.1214
+gr.c.occiden,10/07/2014,2014,A Cuenta,0.1214
+gr.c.occiden,14/05/2014,2013,Complementario,0.2511
+gr.c.occiden,13/02/2014,2013,A Cuenta,0.1156
+gr.c.occiden,10/10/2013,2013,A Cuenta,0.1156
+gr.c.occiden,11/07/2013,2013,A Cuenta,0.1101
+gr.c.occiden,09/05/2013,2012,Complementario,0.2391
+gr.c.occiden,14/02/2013,2012,A Cuenta,0.1101
+gr.c.occiden,11/10/2012,2012,A Cuenta,0.1101
+gr.c.occiden,12/07/2012,2012,A Cuenta,0.1101
+gr.c.occiden,10/05/2012,2011,Complementario,0.2391
+gr.c.occiden,10/02/2012,2011,A Cuenta,0.1101
+gr.c.occiden,13/10/2011,2011,A Cuenta,0.1101
+gr.c.occiden,14/07/2011,2011,A Cuenta,0.1101
+gr.c.occiden,12/05/2011,2010,Complementario,0.2174
+gr.c.occiden,10/02/2011,2010,A Cuenta,0.1001
+gr.c.occiden,13/10/2010,2010,A Cuenta,0.1001
+gr.c.occiden,15/07/2010,2010,A Cuenta,0.1001
+gr.c.occiden,13/05/2010,2009,Complementario,0.2070
+gr.c.occiden,23/12/2009,2009,A Cuenta,0.1001
+gr.c.occiden,08/10/2009,2009,A Cuenta,0.1001
+gr.c.occiden,16/07/2009,2009,A Cuenta,0.1001
+gr.c.occiden,12/05/2009,2008,Complementario,0.2070
+gr.c.occiden,13/02/2009,2008,A Cuenta,0.1001
+gr.c.occiden,10/10/2008,2008,A Cuenta,0.1001
+gr.c.occiden,18/07/2008,2008,A Cuenta,0.1001
+gr.c.occiden,12/05/2008,2007,A Cuenta,0.2070
+gr.c.occiden,13/02/2008,2007,A Cuenta,0.0910
+gr.c.occiden,10/10/2007,2007,A Cuenta,0.0910
+gr.c.occiden,19/07/2007,2007,A Cuenta,0.0910
+gr.c.occiden,11/05/2007,2006,A Cuenta,0.1720
+gr.c.occiden,09/02/2007,2006,A Cuenta,0.0760
+gr.c.occiden,11/10/2006,2006,A Cuenta,0.0760
+gr.c.occiden,19/07/2006,2006,A Cuenta,0.0760
+gr.c.occiden,12/05/2006,2005,A Cuenta,0.6200
+gr.c.occiden,10/02/2006,2005,Extraordinario,0.2800
+gr.c.occiden,14/10/2005,2004,Extraordinario,0.2800
+gr.c.occiden,15/07/2005,2004,Extraordinario,0.2800
+gr.c.occiden,13/05/2005,2004,Extraordinario,0.4300
+gr.c.occiden,11/02/2005,2003,Extraordinario,0.2300
+gr.c.occiden,15/10/2004,2003,Extraordinario,0.2300
+gr.c.occiden,16/07/2004,2003,Extraordinario,0.2300
+gr.c.occiden,14/05/2004,2003,Extraordinario,0.3600
+gr.c.occiden,11/02/2004,2002,Extraordinario,0.2200
+gr.c.occiden,15/10/2003,2002,Extraordinario,0.2200
+gr.c.occiden,16/07/2003,2002,Extraordinario,0.2200
+gr.c.occiden,14/05/2003,2002,Extraordinario,0.3400
+gr.c.occiden,11/02/2003,2001,Extraordinario,0.2100
+gr.c.occiden,15/10/2002,2001,Extraordinario,0.2100
+gr.c.occiden,16/07/2002,2001,Extraordinario,0.2100
+gr.c.occiden,14/05/2002,2001,Extraordinario,0.3400
+gr.c.occiden,11/02/2002,2000,Extraordinario,0.2000
+gr.c.occiden,15/10/2001,2000,Extraordinario,0.2000
+gr.c.occiden,16/07/2001,2000,Extraordinario,0.2000
+gr.c.occiden,15/05/2001,2000,Complementario,0.3035
+gr.c.occiden,12/02/2001,2000,A Cuenta,0.1953
+gr.c.occiden,16/10/2000,2000,A Cuenta,0.1953
+gr.c.occiden,17/07/2000,2000,A Cuenta,0.1953
+gr.c.occiden,16/05/2000,1999,Complementario,0.2735
+gr.c.occiden,14/02/2000,1999,A Cuenta,0.1893
+gam,,,,0.0000
+fluidra,06/10/2017,2016,Unico,0.1352
+fluidra,07/10/2016,2015,Unico,0.0901
+fluidra,02/10/2015,2014,Unico,0.0596
+fluidra,04/10/2013,2012,Unico,0.0712
+fluidra,05/10/2012,2011,Unico,0.0713
+fluidra,07/10/2011,2010,Unico,0.0727
+fluidra,08/10/2010,2009,Unico,0.0364
+fluidra,09/10/2009,2008,Unico,0.0360
+fluidra,10/06/2008,2008,Unico,0.0900
+ferrovial,22/11/2019,2019,A Cuenta,0.4080
+ferrovial,30/05/2019,2018,Complementario,0.3110
+ferrovial,22/11/2018,2018,A Cuenta,0.4070
+ferrovial,04/06/2018,2017,Complementario,0.3140
+ferrovial,15/11/2017,2017,A Cuenta,0.4040
+ferrovial,25/05/2017,2016,Complementario,0.3150
+ferrovial,16/11/2016,2016,A Cuenta,0.4080
+ferrovial,15/06/2016,2015,Complementario,0.3110
+ferrovial,03/11/2015,2015,A Cuenta,0.3980
+ferrovial,06/05/2015,2014,Complementario,0.3040
+ferrovial,04/11/2014,2014,A Cuenta,0.3810
+ferrovial,02/07/2014,2013,Complementario,0.2910
+ferrovial,10/12/2013,2013,A Cuenta,0.4000
+ferrovial,23/05/2013,2012,Complementario,0.2500
+ferrovial,13/12/2012,2012,A Cuenta,1.0000
+ferrovial,24/05/2012,2011,Complementario,0.2500
+ferrovial,17/11/2011,2011,A Cuenta,0.2000
+ferrovial,19/05/2011,2010,Complementario,0.3000
+ferrovial,18/11/2010,2010,A Cuenta,0.1200
+ferrovial,01/07/2010,2009,Complementario,0.3000
+ferrovial,31/12/2009,2009,A Cuenta,0.1000
+ferrovial,07/05/2009,2008,Unico,0.0895
+ferrovial,08/04/2008,2007,Unico,0.0930
+ferrovial,16/04/2007,2006,Unico,0.0970
+ferrovial,20/04/2006,2005,Unico,0.0764
+ferrovial,15/04/2005,2004,Unico,0.0610
+faes,02/01/2020,2019,A Cuenta,0.1420
+faes,02/07/2019,2018,Complementario,0.0220
+faes,02/01/2019,2018,A Cuenta,0.1180
+faes,02/07/2018,2017,Complementario,0.0200
+faes,03/01/2018,2017,A Cuenta,0.1000
+faes,20/06/2017,2016,Complementario,0.0180
+faes,03/01/2017,2016,A Cuenta,0.0900
+faes,01/07/2016,2015,Complementario,0.0165
+faes,21/12/2015,2015,A Cuenta,0.0750
+faes,01/07/2015,2014,Complementario,0.0150
+faes,15/12/2014,2013,A Cuenta,0.0650
+faes,06/06/2014,2012,Complementario,0.0300
+faes,24/12/2013,2012,A Cuenta,0.0400
+faes_d2019,,,,0.0000
+faes,06/06/2013,2012,Complementario,0.0250
+faes,21/12/2012,2012,A Cuenta,0.0300
+faes,02/07/2012,2011,Complementario,0.0100
+faes,02/01/2012,2011,A Cuenta,0.0200
+faes,02/07/2011,2010,Complementario,0.0100
+faes,02/03/2011,2010,A Cuenta,0.0300
+faes,12/11/2010,2010,A Cuenta,0.0400
+faes,02/07/2010,2009,Complementario,0.0100
+faes,02/03/2010,2009,A Cuenta,0.0400
+faes,10/11/2009,2009,A Cuenta,0.0400
+faes,02/07/2009,2008,Complementario,0.0100
+faes,02/03/2009,2008,A Cuenta,0.0400
+faes,10/11/2008,2008,A Cuenta,0.0400
+faes,02/07/2008,2007,Complementario,0.0100
+faes,08/02/2008,2007,A Cuenta,0.0400
+faes,15/10/2007,2007,A Cuenta,0.0400
+faes,02/07/2007,2006,Complementario,0.0100
+faes,28/02/2007,2006,A Cuenta,0.0300
+faes,22/12/2006,2006,A Cuenta,0.0700
+faes,29/09/2006,2006,A Cuenta,0.0700
+faes,30/06/2006,2005,Complementario,0.0300
+faes,28/02/2006,2005,A Cuenta,0.0700
+faes,22/12/2005,2005,A Cuenta,0.0700
+ezentis,,,,0.0000
+faes,30/09/2005,2005,A Cuenta,0.0700
+faes,23/06/2005,2004,Complementario,0.0300
+faes,28/02/2005,2004,A Cuenta,0.0700
+faes,22/12/2004,2004,A Cuenta,0.0700
+faes,30/09/2004,2004,A Cuenta,0.0700
+faes,02/07/2004,2003,Complementario,0.0300
+faes,27/02/2004,2003,A Cuenta,0.0700
+faes,22/12/2003,2003,A Cuenta,0.0700
+faes,30/09/2003,2003,A Cuenta,0.0700
+faes,03/07/2003,2002,Complementario,0.0300
+faes,28/02/2003,2002,A Cuenta,0.0700
+faes,20/12/2002,2002,A Cuenta,0.0700
+faes,30/09/2002,2002,A Cuenta,0.0700
+faes,03/07/2002,2001,Complementario,0.0300
+faes,28/02/2002,2001,A Cuenta,0.0900
+faes,20/12/2001,2001,A Cuenta,0.0900
+faes,28/09/2001,2001,A Cuenta,0.0900
+faes,03/07/2001,2000,Complementario,20.0000
+faes,28/02/2001,2000,A Cuenta,25.0000
+faes,20/12/2000,2000,A Cuenta,25.0000
+faes,11/09/2000,2000,A Cuenta,25.0000
+faes,03/07/2000,1999,Complementario,0.1600
+faes,25/02/2000,1999,A Cuenta,24.0000
+fcc,30/05/2019,2018,A Cuenta,0.4000
+fcc,13/07/2012,2011,Complementario,0.6500
+fcc,10/01/2012,2011,A Cuenta,0.6500
+fcc,06/07/2011,2010,Complementario,0.7150
+fcc,04/01/2011,2010,A Cuenta,0.7150
+fcc,07/06/2010,2009,Complementario,0.7150
+fcc,12/01/2010,2009,A Cuenta,0.7150
+fcc,06/07/2009,2008,Complementario,0.7850
+fcc,09/01/2009,2008,A Cuenta,0.7850
+fcc,07/07/2008,2007,Complementario,1.0650
+fcc,09/01/2008,2007,A Cuenta,1.0650
+fcc,09/07/2007,2006,Complementario,1.0500
+fcc,08/01/2007,2006,A Cuenta,1.0000
+fcc,10/07/2006,2005,Complementario,0.8480
+fcc,09/01/2006,2005,A Cuenta,0.7660
+fcc,04/07/2005,2004,Complementario,0.6800
+fcc,10/01/2005,2004,A Cuenta,0.6800
+fcc,05/07/2004,2003,Complementario,0.6990
+fcc,07/01/2004,2003,A Cuenta,0.3680
+fcc,01/07/2003,2002,Complementario,0.2536
+fcc,07/01/2003,2002,A Cuenta,0.2970
+fcc,08/07/2002,2001,Complementario,0.2439
+fcc,14/01/2002,2001,A Cuenta,0.2800
+fcc,02/07/2001,2000,Complementario,36.0000
+fcc,15/01/2001,2000,A Cuenta,42.0000
+fcc,03/07/2000,1999,Complementario,22.0000
+fcc,07/01/2000,1999,A Cuenta,26.0000
+enagas,23/12/2019,2019,A Cuenta,0.6400
+enagas,03/07/2019,2018,Complementario,0.9180
+enagas,19/12/2018,2018,A Cuenta,0.6120
+enagas,05/07/2018,2017,Complementario,0.8760
+enagas,21/12/2017,2017,A Cuenta,0.5840
+enagas,05/07/2017,2016,Complementario,0.8340
+enagas,22/12/2016,2016,A Cuenta,0.5560
+enagas,05/07/2016,2015,Complementario,0.7920
+enagas,17/12/2015,2015,A Cuenta,0.5280
+enagas,02/07/2015,2014,Complementario,0.7800
+enagas,19/12/2014,2014,A Cuenta,0.5200
+enagas,03/07/2014,2013,Complementario,0.7636
+enagas,19/12/2013,2013,A Cuenta,0.5030
+enagas,03/07/2013,2012,Complementario,0.6848
+enagas,20/12/2012,2012,A Cuenta,0.4280
+euskaltel,09/07/2019,2018,Complementario,0.1700
+euskaltel,07/02/2019,2018,A Cuenta,0.1400
+euskaltel,05/07/2018,2017,Complementario,0.1510
+euskaltel,01/02/2018,2017,A Cuenta,0.1270
+euskaltel,05/07/2017,2016,Complementario,0.2100
+euskaltel,01/02/2017,2017,A Cuenta,0.1270
+ence,19/09/2019,2019,A Cuenta,0.0510
+ence,11/04/2019,2018,Complementario,0.0540
+ence,18/12/2018,2018,A Cuenta,0.1050
+ence,12/09/2018,2018,A Cuenta,0.1040
+ence,12/04/2018,2017,Complementario,0.0660
+ence,14/12/2017,2017,A Cuenta,0.0600
+ence,06/09/2017,2017,A Cuenta,0.0610
+ence,18/04/2017,2016,Complementario,0.0473
+ence,01/12/2016,2016,A Cuenta,0.0320
+ence,14/04/2016,2015,Complementario,0.1000
+ence,07/10/2015,2015,A Cuenta,0.0440
+ence,11/07/2014,2013,A Cuenta,0.0500
+ence,11/07/2014,2013,A Cuenta,0.0300
+ence,03/04/2013,2012,Unico,0.0700
+enagas,05/07/2012,2011,Complementario,0.6118
+enagas,21/12/2011,2011,A Cuenta,0.3810
+enagas,05/07/2011,2010,Complementario,0.5261
+enagas,21/12/2010,2010,A Cuenta,0.3120
+enagas,05/07/2010,2009,Complementario,0.4660
+enagas,22/12/2009,2009,A Cuenta,0.2830
+enagas,02/07/2009,2008,Complementario,0.3906
+enagas,12/01/2009,2008,A Cuenta,0.2600
+enagas,03/07/2008,2007,Complementario,0.3589
+enagas,10/01/2008,2007,A Cuenta,0.2400
+enagas,05/07/2007,2006,Complementario,0.2818
+enagas,11/01/2007,2006,A Cuenta,0.1900
+enagas,06/07/2006,2005,Complementario,0.2399
+enagas,12/01/2006,2005,A Cuenta,0.1600
+enagas,04/07/2005,2004,Complementario,0.2012
+enagas,12/01/2005,2004,A Cuenta,0.1300
+enagas,07/07/2004,2003,Complementario,0.1774
+enagas,08/01/2004,2003,A Cuenta,0.1200
+enagas,03/07/2003,2002,Complementario,0.1405
+enagas,17/01/2003,2002,A Cuenta,0.0900
+ercros,25/06/2019,2018,A Cuenta,0.0600
+ercros,13/07/2018,2017,A Cuenta,0.0500
+ercros,06/07/2018,2017,A Cuenta,0.0500
+ercros,05/07/2017,2016,A Cuenta,0.0400
+ence,08/05/2012,2011,Unico,0.0700
+ence,09/05/2011,2010,Unico,0.1000
+ence,30/06/2008,2007,Complementario,0.1080
+ence,29/02/2008,2007,A Cuenta,0.0300
+ence,02/10/2007,2007,A Cuenta,0.0300
+ence,16/04/2007,2006,Complementario,0.5800
+ence,13/02/2007,2006,A Cuenta,0.1300
+ence,09/10/2006,2006,A Cuenta,0.1300
+ence,12/07/2006,2005,Complementario,0.3400
+ence,13/02/2006,2005,A Cuenta,0.1300
+ence,07/10/2005,2005,A Cuenta,0.1300
+ence,28/07/2005,2005,A Cuenta,0.1300
+ence,20/06/2005,2004,Complementario,0.3000
+ence,11/01/2005,2004,A Cuenta,0.1200
+ence,15/10/2004,2004,A Cuenta,0.1200
+ence,14/07/2004,2004,A Cuenta,0.1200
+ence,23/06/2004,2003,Complementario,0.1100
+ence,25/03/2004,2003,A Cuenta,0.2200
+ence,26/12/2003,2003,A Cuenta,0.2200
+ence,23/06/2003,2002,Complementario,0.3000
+ence,27/12/2002,2002,A Cuenta,0.1500
+ence,15/06/2002,2001,Complementario,0.3000
+ence,27/12/2001,2001,A Cuenta,0.1500
+endesa,02/01/2020,2019,A Cuenta,0.7000
+endesa,02/07/2019,2019,Complementario,0.7270
+endesa,02/01/2019,2018,A Cuenta,0.7000
+endesa,02/07/2018,2017,Complementario,0.6820
+endesa,02/01/2018,2017,A Cuenta,0.7000
+endesa,03/07/2017,2016,Complementario,0.6330
+endesa,02/01/2017,2016,A Cuenta,0.7000
+endesa,01/07/2016,2015,Complementario,0.6260
+endesa,04/01/2016,2015,A Cuenta,0.4000
+endesa,01/07/2015,2014,Complementario,0.3800
+endesa,02/01/2015,2014,A Cuenta,0.3800
+endesa,29/10/2014,2014,Extraordinario,7.7950
+endesa,29/10/2014,2014,A Cuenta,6.0000
+endesa,02/01/2014,2013,A Cuenta,1.5000
+ence,03/05/2001,2000,Complementario,332.7700
+ence,28/12/2000,2000,A Cuenta,0.4000
+ence,30/06/2000,1999,Complementario,58.2350
+endesa,02/07/2012,2011,A Cuenta,0.6060
+endesa,01/07/2011,2010,Complementario,0.5170
+endesa,03/01/2011,2010,A Cuenta,0.5000
+endesa,01/07/2010,2009,Complementario,0.5280
+endesa,04/01/2010,2009,A Cuenta,0.5000
+endesa,16/03/2009,2008,A Cuenta,5.8970
+endesa,08/07/2008,2007,Complementario,1.0310
+endesa,02/01/2008,2007,A Cuenta,0.5000
+endesa,02/07/2007,2006,Complementario,1.1400
+endesa,02/01/2007,2006,A Cuenta,0.5000
+endesa,03/07/2006,2005,Complementario,2.0950
+endesa,02/01/2006,2005,A Cuenta,0.3050
+endesa,01/07/2005,2004,Complementario,0.4662
+endesa,03/01/2005,2004,A Cuenta,0.2720
+endesa,01/07/2004,2003,Complementario,0.4390
+endesa,02/01/2004,2003,A Cuenta,0.2640
+endesa,01/07/2003,2002,Complementario,0.4185
+endesa,02/01/2003,2002,A Cuenta,0.2640
+endesa,01/07/2002,2001,Complementario,0.4185
+endesa,02/01/2002,2001,A Cuenta,0.2640
+endesa,02/07/2001,2000,Complementario,0.4100
+endesa,02/01/2001,2000,A Cuenta,0.2400
+endesa,03/07/2000,1999,Complementario,62.0000
+endesa,03/01/2000,1999,A Cuenta,36.0000
+edreams_odig,,,,0.0000
+c.a.f.,05/07/2019,2018,Unico,0.7650
+c.a.f.,02/07/2018,2017,Unico,0.6600
+c.a.f.,07/07/2017,2016,Unico,0.5800
+c.a.f.,04/07/2016,2015,Unico,5.2500
+c.a.f.,07/07/2015,2014,Unico,5.2500
+c.a.f.,07/07/2014,2013,Unico,10.5000
+c.a.f.,08/07/2013,2012,Unico,10.5000
+c.a.f.,06/07/2012,2011,Unico,10.5000
+c.a.f.,07/07/2011,2010,Unico,10.5000
+c.a.f.,07/07/2010,2009,Unico,10.5000
+c.a.f.,07/07/2009,2008,Unico,9.5000
+c.a.f.,07/07/2008,2007,Unico,8.5000
+c.a.f.,06/07/2007,2006,Unico,3.2000
+c.a.f.,07/07/2006,2005,Unico,1.6000
+c.a.f.,07/07/2005,2004,Unico,1.3700
+c.a.f.,01/07/2004,2003,Unico,1.0900
+c.a.f.,01/07/2003,2002,Unico,1.0900
+ebro_foods,01/10/2019,2018,A Cuenta,0.1900
+ebro_foods,28/06/2019,2018,A Cuenta,0.1900
+ebro_foods,01/04/2019,2018,A Cuenta,0.1900
+ebro_foods,01/10/2018,2017,A Cuenta,0.1900
+ebro_foods,29/06/2018,2017,A Cuenta,0.1900
+ebro_foods,03/04/2018,2017,A Cuenta,0.1900
+ebro_foods,02/10/2017,2016,A Cuenta,0.1900
+ebro_foods,30/06/2017,2016,A Cuenta,0.1900
+ebro_foods,03/04/2017,2016,A Cuenta,0.1900
+ebro_foods,03/10/2016,2015,A Cuenta,0.1800
+ebro_foods,29/06/2016,2015,A Cuenta,0.1800
+ebro_foods,01/04/2016,2015,A Cuenta,0.1800
+borges-bain,,,,0.0000
+c.a.f.,01/07/2002,2001,Unico,1.0900
+c.a.f.,30/06/2001,2000,Unico,1.0936
+c.a.f.,30/06/2000,1999,Unico,1.0114
+ebro_foods,22/12/2015,2014,A Cuenta,0.1500
+ebro_foods,02/10/2015,2014,A Cuenta,0.1700
+ebro_foods,29/06/2015,2014,A Cuenta,0.1700
+ebro_foods,01/04/2015,2014,A Cuenta,0.1700
+ebro_foods,22/12/2014,2013,A Cuenta,0.1250
+ebro_foods,02/10/2014,2013,A Cuenta,0.1250
+ebro_foods,02/07/2014,2013,A Cuenta,0.1250
+ebro_foods,02/04/2014,2013,A Cuenta,0.1250
+ebro_foods,10/12/2013,2013,A Cuenta,0.1200
+ebro_foods,10/09/2013,2012,A Cuenta,0.1600
+ebro_foods,10/05/2013,2012,A Cuenta,0.1600
+ebro_foods,10/01/2013,2012,A Cuenta,0.1600
+ebro_foods,11/09/2012,2011,A Cuenta,0.1500
+ebro_foods,11/05/2012,2011,A Cuenta,0.1500
+ebro_foods,11/01/2012,2011,A Cuenta,0.1500
+ebro_foods,22/12/2011,2010,A Cuenta,0.1790
+ebro_foods,03/10/2011,2010,A Cuenta,0.1790
+ebro_foods,04/07/2011,2010,A Cuenta,0.2540
+ebro_foods,04/04/2011,2010,A Cuenta,0.2540
+ebro_foods,23/12/2010,2009,A Cuenta,0.2500
+caixabank,15/04/2019,2018,Complementario,0.1000
+caixabank,05/11/2018,2018,A Cuenta,0.0700
+caixabank,13/04/2018,2017,Complementario,0.0800
+caixabank,02/11/2017,2017,A Cuenta,0.0700
+caixabank,13/04/2017,2016,Complementario,0.0600
+caixabank,08/12/2016,2016,A Cuenta,0.0400
+caixabank,30/09/2016,2016,A Cuenta,0.0300
+caixabank,01/06/2016,2015,Complementario,0.0400
+caixabank,18/03/2016,2015,A Cuenta,0.0400
+caixabank,24/12/2015,2015,A Cuenta,0.0400
+caixabank,08/09/2015,2015,A Cuenta,0.0400
+caixabank,12/06/2015,2014,Complementario,0.0400
+caixabank,03/03/2015,2014,A Cuenta,0.0400
+ebro_foods,01/10/2010,2009,A Cuenta,0.1000
+ebro_foods,01/10/2010,2009,A Cuenta,0.1500
+ebro_foods,01/07/2010,2009,A Cuenta,0.1000
+ebro_foods,05/04/2010,2009,A Cuenta,0.1000
+ebro_foods,22/12/2009,2008,A Cuenta,0.2100
+ebro_foods,02/10/2009,2008,A Cuenta,0.2100
+ebro_foods,02/07/2009,2008,A Cuenta,0.2100
+ebro_foods,02/04/2009,2008,A Cuenta,0.0900
+ebro_foods,23/12/2008,2008,A Cuenta,0.0900
+ebro_foods,03/10/2008,2007,A Cuenta,0.0900
+ebro_foods,03/07/2008,2007,A Cuenta,0.0900
+ebro_foods,03/04/2008,2007,A Cuenta,0.0900
+ebro_foods,27/12/2007,2006,A Cuenta,0.0900
+ebro_foods,02/10/2007,2006,A Cuenta,0.0900
+ebro_foods,02/07/2007,2006,A Cuenta,0.0900
+ebro_foods,02/04/2007,2006,A Cuenta,0.0900
+ebro_foods,27/12/2006,2005,Complementario,0.0850
+ebro_foods,02/10/2006,2005,A Cuenta,0.0850
+ebro_foods,03/07/2006,2005,A Cuenta,0.0850
+ebro_foods,03/04/2006,2005,A Cuenta,0.0850
+ebro_foods,27/12/2005,2004,A Cuenta,0.0825
+ebro_foods,03/10/2005,2004,A Cuenta,0.0825
+caixabank,25/11/2014,2014,A Cuenta,0.0500
+caixabank,09/09/2014,2014,A Cuenta,0.0500
+caixabank,03/06/2014,2013,Complementario,0.0500
+caixabank,04/03/2014,2013,A Cuenta,0.0500
+caixabank,26/11/2013,2013,A Cuenta,0.0500
+caixabank,01/10/2013,2013,A Cuenta,0.0500
+caixabank,30/07/2013,2012,Complementario,0.0500
+caixabank,12/03/2013,2013,A Cuenta,0.0600
+caixabank,06/12/2012,2012,A Cuenta,0.0600
+caixabank,11/09/2012,2012,A Cuenta,0.0600
+caixabank,30/05/2012,2011,Complementario,0.0500
+caixabank,27/03/2012,2011,A Cuenta,0.0600
+caixabank,27/12/2011,2011,A Cuenta,0.0600
+caixabank,27/09/2011,2011,A Cuenta,0.0600
+caixabank,30/06/2011,2010,Complementario,0.0510
+caixabank,01/03/2011,2010,A Cuenta,0.0600
+caixabank,11/01/2011,2010,A Cuenta,0.0800
+caixabank,01/12/2010,2010,A Cuenta,0.0600
+caixabank,01/09/2010,2010,A Cuenta,0.0600
+caixabank,01/06/2010,2009,Complementario,0.1310
+caixabank,01/12/2009,2009,A Cuenta,0.1000
+ebro_foods,01/07/2005,2004,A Cuenta,0.0825
+ebro_foods,01/04/2005,2004,A Cuenta,0.0825
+ebro_foods,27/12/2004,2003,Complementario,0.0750
+ebro_foods,01/10/2004,2003,A Cuenta,0.0750
+ebro_foods,01/07/2004,2003,A Cuenta,0.0750
+ebro_foods,01/04/2004,2003,A Cuenta,0.0750
+ebro_foods,29/12/2003,2002,Complementario,0.0600
+ebro_foods,01/10/2003,2002,A Cuenta,0.0600
+ebro_foods,01/07/2003,2002,A Cuenta,0.0600
+ebro_foods,01/04/2003,2002,A Cuenta,0.0600
+ebro_foods,23/12/2002,2001,Complementario,0.0600
+ebro_foods,01/10/2002,2001,A Cuenta,0.0600
+ebro_foods,02/07/2002,2001,A Cuenta,0.0600
+ebro_foods,05/04/2002,2001,A Cuenta,0.0600
+ebro_foods,09/07/2001,2000,Extraordinario,0.1200
+ebro_foods,15/12/2000,2000,A Cuenta,44.0000
+ebro_foods,17/04/2000,1999,Complementario,44.0000
+caixabank,27/05/2009,2008,Complementario,0.0600
+caixabank,02/12/2008,2008,A Cuenta,0.1000
+caixabank,02/07/2008,2008,A Cuenta,0.0500
+caixabank,17/06/2008,2007,Complementario,0.0200
+caixabank,17/01/2008,2007,A Cuenta,0.0300
+elecnor,11/12/2019,2019,A Cuenta,0.0589
+elecnor,12/06/2019,2018,Complementario,0.2592
+elecnor,12/12/2018,2018,A Cuenta,0.0566
+elecnor,13/06/2018,2017,Complementario,0.2403
+elecnor,17/01/2018,2017,A Cuenta,0.0544
+elecnor,14/06/2017,2016,Complementario,0.2308
+elecnor,11/01/2017,2016,A Cuenta,0.0530
+elecnor,08/06/2016,2015,Complementario,0.2189
+elecnor,13/01/2016,2015,A Cuenta,0.0515
+elecnor,10/06/2015,2014,Complementario,0.2079
+elecnor,14/01/2015,2014,A Cuenta,0.0496
+elecnor,11/06/2014,2013,Complementario,0.1911
+elecnor,15/01/2014,2013,A Cuenta,0.0496
+elecnor,12/06/2013,2012,Complementario,0.2124
+elecnor,16/01/2013,2012,A Cuenta,0.0552
+elecnor,13/06/2012,2011,Complementario,0.2123
+elecnor,12/01/2012,2011,A Cuenta,0.0552
+elecnor,14/09/2011,2010,Unico,0.0441
+elecnor,08/06/2011,2010,Complementario,0.1930
+elecnor,14/01/2011,2010,A Cuenta,0.0531
+elecnor,08/06/2010,2009,Complementario,0.1801
+elecnor,10/12/2009,2009,A Cuenta,0.0525
+elecnor,12/06/2009,2008,Complementario,0.1720
+elecnor,09/01/2009,2008,A Cuenta,0.0541
+bo.riojanas,18/07/2018,2017,A Cuenta,0.1400
+bo.riojanas,18/07/2017,2016,A Cuenta,0.1400
+bo.riojanas,14/07/2016,2015,A Cuenta,0.1400
+bo.riojanas,06/07/2015,2014,Unico,0.1200
+bo.riojanas,14/07/2014,2013,Unico,0.1100
+bo.riojanas,12/07/2013,2012,Unico,0.1000
+bo.riojanas,12/07/2012,2011,Unico,0.1000
+bo.riojanas,14/07/2011,2010,Unico,0.1000
+bo.riojanas,06/07/2010,2009,Unico,0.1000
+bo.riojanas,15/07/2009,2008,Unico,0.1000
+bo.riojanas,15/07/2008,2007,Unico,0.1700
+bo.riojanas,05/07/2007,2006,Unico,0.1700
+bo.riojanas,05/07/2006,2005,Unico,0.1700
+bo.riojanas,05/07/2005,2004,Unico,0.1300
+bo.riojanas,05/07/2004,2003,Unico,0.1200
+biosearch,,,,0.0000
+bme,30/12/2019,2019,A Cuenta,0.6000
+bme,13/09/2019,2019,A Cuenta,0.4000
+bme,10/05/2019,2018,Complementario,0.5700
+bme,28/12/2018,2018,A Cuenta,0.6000
+bme,14/09/2018,2018,A Cuenta,0.4000
+bme,11/05/2018,2017,Complementario,0.7800
+bme,29/12/2017,2017,A Cuenta,0.6000
+bme,08/09/2017,2017,A Cuenta,0.4000
+bme,05/05/2017,2016,Complementario,0.8000
+bme,29/12/2016,2016,A Cuenta,0.6000
+bme,16/09/2016,2016,A Cuenta,0.4000
+elecnor,08/09/2008,2007,Unico,0.0932
+elecnor,03/07/2008,2007,Complementario,0.2410
+elecnor,11/01/2008,2007,A Cuenta,0.0898
+elecnor,02/07/2007,2006,Complementario,0.1930
+elecnor,12/01/2007,2007,A Cuenta,0.0749
+elecnor,03/07/2006,2005,Complementario,0.1518
+elecnor,12/01/2006,2005,A Cuenta,0.0625
+elecnor,12/07/2005,2004,Complementario,0.6248
+elecnor,11/01/2005,2004,A Cuenta,0.2822
+elecnor,12/07/2004,2003,Complementario,0.5542
+elecnor,12/01/2004,2003,A Cuenta,0.2519
+elecnor,14/07/2003,2002,Complementario,0.4837
+elecnor,10/01/2003,2002,A Cuenta,0.2019
+elecnor,15/07/2002,2001,Complementario,0.4570
+elecnor,11/01/2002,2001,A Cuenta,0.1503
+elecnor,18/07/2001,2000,Unico,1.3823
+elecnor,30/06/2000,1999,Complementario,0.8114
+elecnor,03/01/2000,1999,A Cuenta,60.0000
+bo.riojanas,04/07/2003,2002,Unico,0.1400
+bo.riojanas,16/07/2002,2001,Unico,0.1200
+bo.riojanas,16/07/2001,2000,Unico,0.1906
+bo.riojanas,14/07/2000,1999,Unico,0.1923
+bme,06/05/2016,2015,Complementario,0.9300
+bme,29/12/2015,2015,A Cuenta,0.6000
+bme,11/09/2015,2015,A Cuenta,0.4000
+bme,08/05/2015,2014,Complementario,0.8900
+bme,23/12/2014,2014,A Cuenta,0.6000
+bme,12/09/2014,2014,A Cuenta,0.4000
+bme,09/05/2014,2013,Complementario,0.6500
+bme,27/12/2013,2013,A Cuenta,0.6000
+bme,09/09/2013,2013,A Cuenta,0.4000
+bme,27/06/2013,2012,Unico,0.1420
+bme,10/05/2013,2012,Complementario,0.6000
+bme,27/12/2012,2012,A Cuenta,0.6000
+bme,07/09/2012,2012,A Cuenta,0.4000
+bme,11/05/2012,2012,Unico,0.3720
+bme,04/05/2012,2011,Complementario,0.6000
+bme,23/12/2011,2011,A Cuenta,0.6000
+bme,09/09/2011,2011,A Cuenta,0.4000
+bme,13/05/2011,2010,Unico,0.3720
+bme,06/05/2011,2010,Complementario,0.6000
+bme,22/12/2010,2010,A Cuenta,0.6000
+bme,10/09/2010,2010,A Cuenta,0.4000
+bme,14/05/2010,2010,Unico,0.3720
+bme,07/05/2010,2009,Complementario,0.6000
+bme,22/12/2009,2009,A Cuenta,0.6000
+bme,10/09/2009,2009,A Cuenta,0.4000
+bme,07/05/2009,2008,Complementario,0.9862
+bme,29/01/2009,2008,A Cuenta,0.9862
+bme,21/05/2008,2007,n.a. (140),0.5690
+bme,07/05/2008,2007,Complementario,1.0165
+bme,22/01/2008,2007,A Cuenta,0.9560
+bme,07/05/2007,2006,Complementario,0.5980
+bme,26/01/2007,2006,A Cuenta,0.5980
+berkeley,,,,0.0000
+baviera,13/06/2019,2018,A Cuenta,0.5800
+baviera,25/05/2018,2017,A Cuenta,0.4800
+baviera,19/05/2017,2016,Complementario,0.2200
+baviera,12/12/2016,2016,Extraordinario,0.3100
+baviera,12/12/2016,2016,A Cuenta,0.1700
+baviera,07/06/2016,2015,Complementario,0.1500
+baviera,29/12/2015,2015,A Cuenta,0.0900
+baviera,19/05/2015,2014,Complementario,0.1300
+baviera,19/12/2014,2014,A Cuenta,0.0700
+baviera,14/05/2014,2013,A Cuenta,0.4900
+baviera,14/05/2013,2012,A Cuenta,0.1000
+baviera,08/05/2012,2011,Complementario,0.1500
+baviera,23/12/2011,2011,A Cuenta,0.1200
+baviera,22/06/2011,2010,Complementario,0.1400
+baviera,16/12/2010,2010,A Cuenta,0.1200
+baviera,23/06/2010,2009,Unico,0.0700
+baviera,22/05/2008,2007,Unico,0.4700
+bankia,11/04/2019,2018,A Cuenta,0.1158
+bankia,20/04/2018,2017,A Cuenta,0.1102
+bbva,15/10/2019,2019,A Cuenta,0.1000
+bbva,10/04/2019,2018,Complementario,0.1600
+bbva,10/10/2018,2018,A Cuenta,0.1000
+bbva,10/04/2018,2017,Complementario,0.1500
+bbva,10/04/2018,2017,Complementario,0.1500
+bbva,10/10/2017,2017,A Cuenta,0.0900
+bbva,21/04/2017,2016,A Cuenta,0.1310
+bbva,12/01/2017,2016,A Cuenta,0.0800
+bbva,19/10/2016,2016,A Cuenta,0.0800
+bbva,11/07/2016,2016,A Cuenta,0.0800
+bbva,21/04/2016,2015,A Cuenta,0.1290
+bbva,12/01/2016,2015,A Cuenta,0.0800
+b.sabadell,05/04/2019,2018,Complementario,0.0100
+b.sabadell,28/12/2018,2018,A Cuenta,0.0200
+b.sabadell,27/04/2018,2017,Complementario,0.0500
+b.sabadell,29/12/2017,2017,A Cuenta,0.0200
+b.sabadell,07/04/2017,2016,A Cuenta,0.0300
+b.sabadell,30/12/2016,2016,A Cuenta,0.0200
+b.sabadell,22/04/2016,2015,A Cuenta,0.0480
+b.sabadell,02/06/2015,2014,A Cuenta,0.0390
+b.sabadell,03/04/2014,2013,A Cuenta,0.0100
+b.sabadell,05/04/2013,2012,A Cuenta,0.0100
+b.sabadell,06/09/2011,2011,A Cuenta,0.0500
+b.sabadell,19/04/2011,2010,Complementario,0.0600
+b.sabadell,20/12/2010,2010,A Cuenta,0.0900
+b.sabadell,15/12/2009,2009,A Cuenta,0.0700
+bbva,05/10/2015,2015,A Cuenta,0.0800
+bbva,16/07/2015,2015,A Cuenta,0.0800
+bbva,30/03/2015,2014,Complementario,0.1300
+bbva,22/12/2014,2014,A Cuenta,0.0800
+bbva,29/09/2014,2014,A Cuenta,0.0800
+bbva,10/07/2014,2014,A Cuenta,0.0800
+bbva,31/03/2014,2014,A Cuenta,0.1680
+bbva,30/09/2013,2013,A Cuenta,0.0990
+bbva,10/07/2013,2013,A Cuenta,0.1000
+bbva,08/04/2013,2012,Complementario,0.1210
+bbva,10/01/2013,2012,A Cuenta,0.1000
+bbva,01/10/2012,2012,A Cuenta,0.0990
+bbva,10/07/2012,2012,A Cuenta,0.1000
+bbva,16/04/2012,2011,A Cuenta,0.1180
+bbva,10/01/2012,2011,A Cuenta,0.1000
+bbva,30/09/2011,2011,A Cuenta,0.1000
+bbva,08/07/2011,2011,A Cuenta,0.1000
+bbva,01/04/2011,2010,Complementario,0.1490
+bbva,10/01/2011,2010,A Cuenta,0.0900
+bbva,11/10/2010,2010,A Cuenta,0.0900
+bbva,12/07/2010,2010,A Cuenta,0.0900
+bbva,12/04/2010,2009,Complementario,0.1500
+baron_de_ley,,,,0.0000
+b.sabadell,01/09/2009,2009,A Cuenta,0.0700
+b.sabadell,02/04/2009,2008,Complementario,0.1200
+b.sabadell,15/12/2008,2008,A Cuenta,0.0800
+b.sabadell,29/08/2008,2008,A Cuenta,0.0800
+b.sabadell,02/04/2008,2007,Complementario,0.1500
+b.sabadell,24/10/2007,2007,A Cuenta,0.1300
+b.sabadell,02/04/2007,2006,Complementario,0.4500
+b.sabadell,02/11/2006,2006,A Cuenta,0.3800
+b.sabadell,02/05/2006,2005,Complementario,0.3700
+b.sabadell,02/11/2005,2005,A Cuenta,0.3000
+b.sabadell,26/04/2005,2004,Complementario,0.2600
+b.sabadell,02/11/2004,2004,A Cuenta,0.2400
+b.sabadell,06/02/2004,2003,Complementario,0.2600
+b.sabadell,03/11/2003,2003,A Cuenta,0.2400
+b.sabadell,29/04/2003,2002,Complementario,0.2639
+b.sabadell,02/11/2002,2002,A Cuenta,0.2400
+b.sabadell,02/04/2002,2001,Complementario,0.2600
+b.sabadell,02/11/2001,2001,A Cuenta,0.2400
+bbva,28/12/2009,2009,A Cuenta,0.0900
+bbva,12/10/2009,2009,A Cuenta,0.0900
+bbva,10/07/2009,2009,A Cuenta,0.0900
+bbva,12/01/2009,2008,A Cuenta,0.1670
+bbva,10/10/2008,2008,A Cuenta,0.1670
+bbva,10/07/2008,2008,A Cuenta,0.1670
+bbva,10/04/2008,2007,Complementario,0.2770
+bbva,10/01/2008,2007,A Cuenta,0.1520
+bbva,10/10/2007,2007,A Cuenta,0.1520
+bbva,10/07/2007,2007,A Cuenta,0.1520
+bbva,10/04/2007,2006,Complementario,0.2410
+bbva,10/01/2007,2006,A Cuenta,0.1320
+bbva,10/10/2006,2006,A Cuenta,0.1320
+bbva,10/07/2006,2006,A Cuenta,0.1320
+bbva,10/04/2006,2005,Complementario,0.1860
+bbva,10/01/2006,2005,A Cuenta,0.1150
+bbva,10/10/2005,2005,A Cuenta,0.1150
+bbva,11/07/2005,2005,A Cuenta,0.1150
+bbva,11/04/2005,2004,Complementario,0.1420
+bbva,10/01/2005,2004,A Cuenta,0.1000
+bbva,11/10/2004,2004,A Cuenta,0.1000
+bbva,12/07/2004,2004,A Cuenta,0.1000
+bankinter,27/12/2019,2019,A Cuenta,0.0648
+bankinter,25/09/2019,2019,A Cuenta,0.0637
+bankinter,26/06/2019,2019,A Cuenta,0.0667
+bankinter,28/03/2019,2018,Complementario,0.0993
+bankinter,28/12/2018,2018,A Cuenta,0.0648
+bankinter,26/09/2018,2018,A Cuenta,0.0637
+bankinter,27/06/2018,2018,A Cuenta,0.0651
+bankinter,29/03/2018,2017,Complementario,0.0939
+bankinter,29/12/2017,2017,A Cuenta,0.0617
+bankinter,27/09/2017,2017,A Cuenta,0.0607
+bbva,10/04/2004,2003,Complementario,0.1140
+bbva,12/01/2004,2003,A Cuenta,0.0900
+bbva,10/10/2003,2003,A Cuenta,0.0900
+bbva,10/07/2003,2003,A Cuenta,0.0900
+bbva,10/04/2003,2002,Complementario,0.0780
+bbva,10/01/2003,2002,A Cuenta,0.0900
+bbva,10/10/2002,2002,A Cuenta,0.0900
+bbva,10/07/2002,2002,A Cuenta,0.0900
+bbva,10/04/2002,2001,Complementario,0.1280
+bbva,10/01/2002,2001,A Cuenta,0.0850
+bbva,10/10/2001,2001,A Cuenta,0.0850
+bbva,10/07/2001,2001,A Cuenta,0.0850
+bbva,10/04/2001,2000,Complementario,0.1110
+bbva,10/01/2001,2000,A Cuenta,0.0640
+bbva,10/10/2000,2000,A Cuenta,0.0640
+bbva,10/07/2000,2000,A Cuenta,0.0640
+bbva,24/04/2000,2000,A Cuenta,0.0600
+bbva,10/01/2000,1999,Complementario,0.1073
+bankinter,28/06/2017,2017,A Cuenta,0.0592
+bankinter,30/03/2017,2016,Complementario,0.0682
+bankinter,28/12/2016,2016,A Cuenta,0.0514
+bankinter,28/09/2016,2016,A Cuenta,0.0514
+bankinter,25/06/2016,2016,A Cuenta,0.0514
+bankinter,19/03/2016,2015,Complementario,0.0565
+bankinter,26/12/2015,2015,A Cuenta,0.0521
+bankinter,03/10/2015,2015,A Cuenta,0.0521
+bankinter,27/06/2015,2015,A Cuenta,0.0485
+bankinter,21/03/2015,2014,Complementario,0.0768
+bankinter,01/11/2014,2014,A Cuenta,0.0273
+bankinter,02/08/2014,2014,A Cuenta,0.0273
+bankinter,03/05/2014,2014,A Cuenta,0.0221
+bankinter,05/04/2014,2013,Complementario,0.0014
+bankinter,04/01/2014,2013,A Cuenta,0.0222
+bankinter,05/10/2013,2013,A Cuenta,0.0188
+bankinter,06/07/2013,2013,A Cuenta,0.0184
+bankinter,06/04/2013,2012,A Cuenta,0.0273
+bankinter,05/01/2013,2012,A Cuenta,0.0273
+bankinter,13/10/2012,2012,A Cuenta,0.0273
+bankinter,07/07/2012,2012,A Cuenta,0.0287
+bankinter,07/04/2012,2011,A Cuenta,0.0385
+bankinter,07/01/2012,2011,A Cuenta,0.0483
+bankinter,05/01/2012,2012,A Cuenta,0.0273
+bankinter,09/09/2011,2011,Complementario,0.0520
+bankinter,02/07/2011,2011,A Cuenta,0.0519
+bankinter,01/01/2011,2010,A Cuenta,0.0483
+bankinter,02/10/2010,2010,A Cuenta,0.0520
+bankinter,03/07/2010,2010,A Cuenta,0.0571
+bankinter,03/04/2010,2009,Complementario,0.0480
+bankinter,02/01/2010,2009,A Cuenta,0.0758
+bankinter,03/10/2009,2009,A Cuenta,0.0735
+bankinter,04/07/2009,2009,A Cuenta,0.0714
+bankinter,04/04/2009,2008,A Cuenta,0.0781
+bankinter,03/01/2009,2008,A Cuenta,0.0758
+bankinter,04/10/2008,2008,A Cuenta,0.0735
+bankinter,05/07/2008,2008,A Cuenta,0.0714
+bankinter,05/04/2008,2007,A Cuenta,0.0781
+bankinter,05/01/2008,2007,A Cuenta,0.0758
+bankinter,06/10/2007,2007,A Cuenta,0.0735
+bankinter,07/07/2007,2007,A Cuenta,0.3567
+bankinter,07/04/2007,2006,A Cuenta,0.3396
+bankinter,06/01/2007,2006,A Cuenta,0.3297
+bankinter,07/10/2006,2006,A Cuenta,0.3197
+bankinter,01/07/2006,2006,A Cuenta,0.3102
+bankinter,01/04/2006,2005,A Cuenta,0.3144
+bankinter,07/01/2006,2005,A Cuenta,0.3053
+bankinter,01/10/2005,2005,A Cuenta,0.2960
+bankinter,02/07/2005,2005,A Cuenta,0.2872
+bankinter,02/04/2005,2004,Complementario,0.2807
+bankinter,08/01/2005,2004,A Cuenta,0.2726
+bankinter,02/10/2004,2004,A Cuenta,0.2643
+bankinter,03/07/2004,2004,A Cuenta,0.2564
+bankinter,03/04/2004,2003,Complementario,0.2552
+bankinter,03/01/2004,2003,A Cuenta,0.2478
+bankinter,04/10/2003,2003,A Cuenta,0.2360
+bankinter,05/07/2003,2003,A Cuenta,0.2289
+bankinter,05/04/2003,2002,Complementario,0.2385
+bankinter,04/01/2003,2002,A Cuenta,0.2316
+bankinter,05/10/2002,2002,A Cuenta,0.2248
+bankinter,06/07/2002,2002,A Cuenta,0.2180
+bankinter,05/04/2002,2001,Complementario,0.2271
+bankinter,05/01/2002,2001,A Cuenta,0.2206
+bankinter,06/10/2001,2001,A Cuenta,0.2141
+bankinter,07/07/2001,2001,A Cuenta,0.2076
+bankinter,07/04/2001,2000,Complementario,0.2271
+bankinter,08/01/2001,2000,A Cuenta,0.2206
+bankinter,07/10/2000,2000,A Cuenta,0.2141
+bankinter,01/07/2000,2000,A Cuenta,0.2076
+bankinter,01/04/2000,1999,Complementario,0.2271
+bankinter,08/01/2000,1999,A Cuenta,0.2206
+arima,,,,0.0000
+applus_servi,04/07/2019,2018,A Cuenta,0.1500
+applus_servi,12/07/2018,2017,A Cuenta,0.1300
+applus_servi,13/07/2017,2016,A Cuenta,0.1300
+applus_servi,15/07/2016,2015,Unico,0.1300
+applus_servi,15/07/2015,2014,Extraordinario,0.0253
+applus_servi,15/07/2015,2014,A Cuenta,0.1047
+azkoyen,19/06/2019,2018,Unico,1.2170
+azkoyen,13/07/2018,2017,Unico,0.1560
+azkoyen,14/07/2017,2016,A Cuenta,0.1360
+azkoyen,15/07/2016,2015,Complementario,0.0470
+azkoyen,14/07/2015,2015,A Cuenta,0.0400
+azkoyen,03/06/2002,2001,Complementario,0.1803
+azkoyen,21/12/2001,2001,A Cuenta,0.1082
+azkoyen,02/07/2001,2000,Complementario,25.0000
+azkoyen,21/12/2000,2000,A Cuenta,0.0902
+azkoyen,20/06/2000,1999,Complementario,25.0000
+arcelormitt.,,,,0.0000
+atresmedia,18/12/2019,2019,A Cuenta,0.2000
+atresmedia,20/06/2019,2018,Extraordinario,0.2500
+atresmedia,19/12/2018,2018,A Cuenta,0.2000
+atresmedia,21/06/2018,2017,Complementario,0.3000
+atresmedia,21/12/2017,2017,Extraordinario,0.4500
+atresmedia,13/12/2017,2017,A Cuenta,0.2200
+atresmedia,21/06/2017,2016,Complementario,0.2500
+atresmedia,15/12/2016,2016,A Cuenta,0.2200
+atresmedia,23/06/2016,2015,Complementario,0.1800
+atresmedia,17/12/2015,2015,A Cuenta,0.1800
+atresmedia,18/06/2015,2014,Complementario,0.1000
+atresmedia,18/12/2014,2014,A Cuenta,0.1000
+atresmedia,18/06/2014,2013,A Cuenta,0.1100
+atresmedia,20/12/2012,2012,A Cuenta,0.1100
+atresmedia,04/05/2012,2011,Complementario,0.2300
+atresmedia,14/12/2011,2011,A Cuenta,0.2200
+atresmedia,27/04/2011,2010,Complementario,0.2500
+atresmedia,18/11/2010,2010,A Cuenta,0.2000
+atresmedia,21/04/2010,2009,Complementario,0.1500
+atresmedia,10/12/2009,2009,A Cuenta,0.0800
+atresmedia,21/04/2009,2008,Complementario,0.1200
+atresmedia,15/09/2008,2008,A Cuenta,0.3200
+atresmedia,24/04/2008,2007,Complementario,0.4000
+atresmedia,25/10/2007,2007,A Cuenta,0.4000
+atresmedia,26/04/2006,2005,Complementario,0.4300
+atresmedia,23/09/2005,2005,A Cuenta,0.3800
+atresmedia,11/04/2005,2004,Unico,1.5200
+audax,26/07/2010,2009,Unico,0.0086
+audax,24/07/2009,2008,Unico,0.0139
+audax,16/07/2008,2007,Unico,0.0131
+audax,29/05/2007,2006,Unico,0.0182
+amadeus,12/07/2019,2018,Complementario,0.6650
+amadeus,17/01/2019,2018,A Cuenta,0.5100
+amadeus,29/06/2018,2017,Complementario,0.6550
+amadeus,31/01/2018,2017,A Cuenta,0.4800
+amadeus,30/06/2017,2016,Complementario,0.5400
+amadeus,01/02/2017,2016,A Cuenta,0.4000
+amadeus,28/07/2016,2015,Complementario,0.4350
+amadeus,28/01/2016,2015,A Cuenta,0.3400
+amadeus,30/07/2015,2014,Complementario,0.3800
+amadeus,30/01/2015,2014,A Cuenta,0.3200
+amadeus,29/07/2014,2013,Complementario,0.3250
+amadeus,31/01/2014,2013,A Cuenta,0.3000
+amadeus,30/07/2013,2012,Complementario,0.2500
+amadeus,30/01/2013,2012,A Cuenta,0.2500
+amadeus,27/07/2012,2011,Complementario,0.1950
+amadeus,30/01/2012,2011,A Cuenta,0.1750
+amadeus,27/07/2011,2010,Unico,0.3000
+almirall,03/06/2019,2018,A Cuenta,0.1980
+almirall,01/06/2018,2017,A Cuenta,0.1840
+almirall,01/06/2017,2016,A Cuenta,0.1900
+almirall,01/06/2016,2015,A Cuenta,0.1900
+almirall,17/05/2013,2013,Unico,0.1530
+almirall,15/05/2012,2011,Unico,0.1720
+almirall,01/06/2011,2010,Unico,0.2856
+almirall,01/06/2010,2009,Unico,0.3320
+almirall,01/06/2009,2008,Unico,0.3160
+almirall,23/05/2008,2007,Unico,0.3160
+amper,01/07/2009,2008,Unico,0.1544
+amper,20/06/2008,2007,Unico,0.1332
+amper,15/06/2007,2006,Unico,0.0953
+amper,16/06/2006,2005,Unico,0.0756
+aperam,11/12/2019,2019,A Cuenta,0.3719
+aperam,13/09/2019,2019,A Cuenta,0.3719
+aperam,13/06/2019,2019,A Cuenta,0.3719
+aperam,26/03/2019,2019,A Cuenta,0.3719
+aperam,11/12/2018,2018,A Cuenta,0.3397
+aperam,14/09/2018,2018,A Cuenta,0.3354
+aperam,13/06/2018,2018,A Cuenta,0.3219
+aperam,29/03/2018,2018,A Cuenta,0.3626
+aperam,12/12/2017,2017,A Cuenta,0.2714
+aperam,12/09/2017,2017,A Cuenta,0.2702
+aperam,14/06/2017,2017,A Cuenta,0.2882
+aperam,12/12/2016,2015,A Cuenta,0.2480
+aperam,09/09/2016,2015,A Cuenta,0.2346
+aperam,14/06/2016,2015,A Cuenta,0.2372
+aperam,30/03/2016,2015,A Cuenta,0.2421
+amrest,,,,0.0000
+aperam,19/11/2012,2012,A Cuenta,0.1247
+aperam,20/08/2012,2012,A Cuenta,0.1292
+aperam,23/05/2012,2012,A Cuenta,0.1248
+aperam,17/02/2012,2012,A Cuenta,0.1228
+aperam,18/11/2011,2011,A Cuenta,0.1182
+aperam,19/08/2011,2011,A Cuenta,0.1109
+aperam,20/05/2011,2011,A Cuenta,0.1117
+aperam,10/03/2011,2011,A Cuenta,0.1144
+airtificial,11/07/2007,2006,Unico,0.0070
+airtificial,11/07/2006,2005,Complementario,0.0100
+airtificial,12/04/2006,2005,A Cuenta,0.0100
+airtificial,30/06/2005,2004,Complementario,0.0318
+airtificial,29/04/2005,2004,A Cuenta,0.0133
+airtificial,16/07/2004,2003,Complementario,0.0150
+airtificial,27/05/2004,2003,A Cuenta,0.0375
+alantra_part,19/12/2019,2019,A Cuenta,0.6000
+alantra_part,13/05/2019,2019,A Cuenta,0.1949
+alantra_part,13/05/2019,2018,Complementario,0.2119
+alantra_part,17/12/2018,2018,A Cuenta,0.5000
+alantra_part,11/05/2018,2017,Complementario,0.2079
+alantra_part,11/05/2018,2018,A Cuenta,0.1640
+alantra_part,30/11/2017,2017,A Cuenta,0.4708
+alantra_part,08/07/2015,2015,A Cuenta,0.4240
+alantra_part,23/03/2015,2014,A Cuenta,0.1861
+alantra_part,15/07/2005,2004,Unico,0.7000
+alantra_part,15/07/2004,2003,Unico,0.7000
+alantra_part,15/07/2003,2002,Unico,0.7000
+alantra_part,15/07/2002,2001,Unico,0.6000
+alantra_part,14/07/2001,2000,Unico,0.7000
+alantra_part,13/07/2000,1999,Unico,0.4000
+aena,23/04/2019,2018,Unico,6.9300
+aena,19/04/2018,2017,Unico,6.5000
+aena,04/05/2017,2016,Unico,3.8300
+aena,05/07/2016,2015,Unico,2.7100
+aedas_homes,,,,0.0000
+airbus_se,17/04/2019,2018,Unico,1.6500
+airbus_se,20/04/2017,2016,Unico,1.1475
+airbus_se,04/05/2016,2015,Unico,1.3000
+airbus_se,01/06/2015,2014,Unico,1.0200
+airbus_se,29/05/2014,2013,Unico,0.6375
+airbus_se,31/05/2013,2012,Unico,0.6000
+airbus_se,04/06/2012,2011,Unico,0.4500
+airbus_se,01/06/2011,2010,Unico,0.1870
+airbus_se,03/06/2009,2008,Unico,0.1700
+airbus_se,30/05/2008,2007,Unico,0.1020
+airbus_se,11/05/2007,2006,Unico,0.1020
+airbus_se,10/05/2006,2005,Unico,0.4875
+airbus_se,16/05/2005,2004,Unico,0.3750
+airbus_se,11/05/2004,2003,Unico,0.3000
+airbus_se,10/05/2003,2002,Unico,0.2250
+airbus_se,22/05/2002,2001,Unico,0.3750
+airbus_se,12/05/2001,2000,Unico,0.5000
+acs,10/07/2019,2019,A Cuenta,1.4500
+acs,10/07/2019,2019,A Cuenta,1.4500
+acs,07/02/2019,2018,Complementario,0.4500
+acs,10/07/2018,2017,A Cuenta,0.9360
+acs,07/02/2018,2016,A Cuenta,0.4490
+acs,13/07/2017,2016,A Cuenta,0.7510
+acs,07/02/2017,2015,A Cuenta,0.4450
+acs,14/07/2016,2015,A Cuenta,0.7070
+acs,15/01/2016,2014,A Cuenta,0.4440
+acs,02/07/2015,2014,A Cuenta,0.7030
+acs,29/01/2015,2013,A Cuenta,0.4500
+acs,03/07/2014,2013,A Cuenta,0.7070
+acs,30/01/2014,2012,A Cuenta,0.4460
+acs,04/07/2013,2012,A Cuenta,1.1120
+acs,12/07/2012,2011,Complementario,1.0680
+acs,07/02/2012,2011,A Cuenta,0.9000
+acs,05/07/2011,2010,Complementario,1.1500
+acs,08/02/2011,2010,A Cuenta,0.9000
+acs,02/07/2010,2009,Complementario,1.1500
+acs,12/01/2010,2009,A Cuenta,0.9000
+acs,02/07/2009,2008,Complementario,1.1500
+acs,27/01/2009,2008,A Cuenta,0.9000
+acs,02/07/2008,2007,Complementario,1.0000
+acs,15/01/2008,2007,A Cuenta,0.7500
+acs,02/07/2007,2006,Complementario,0.8500
+abengoa_a,17/04/2015,2014,Unico,0.1130
+abengoa_a,09/04/2014,2013,Unico,0.1110
+abengoa_a,09/04/2013,2012,Unico,0.0720
+abengoa_a,04/07/2012,2011,Complementario,0.2000
+abengoa_a,11/04/2012,2011,A Cuenta,0.1500
+abengoa_a,05/07/2011,2010,Unico,0.2000
+abengoa_a,06/07/2010,2009,Unico,0.1900
+abengoa_a,01/07/2009,2008,Unico,0.1800
+abengoa_a,02/07/2008,2007,Unico,0.1700
+abengoa_a,03/07/2007,2006,Complementario,0.1600
+abengoa_a,04/07/2006,2005,Unico,0.1500
+abengoa_a,06/07/2005,2004,Unico,0.1400
+abengoa_a,06/07/2004,2003,Unico,0.1400
+abengoa_a,09/07/2003,2002,Unico,0.1400
+abengoa_a,09/07/2003,2002,Unico,0.1400
+abengoa_a,11/07/2002,2001,Unico,0.1400
+abengoa_a,03/07/2001,2000,Unico,0.4808
+acerinox,05/06/2019,2018,n.a. (14R),0.3000
+acerinox,05/07/2018,2017,n.a. (14R),0.4500
+acerinox,05/07/2017,2016,A Cuenta,0.4500
+acerinox,11/07/2016,2015,Unico,0.4400
+acerinox,17/06/2015,2014,Unico,0.4490
+acerinox,24/06/2014,2013,Unico,0.4490
+acerinox,18/06/2013,2012,Unico,0.4330
+acerinox,05/07/2012,2011,Complementario,0.1500
+acerinox,04/04/2012,2011,A Cuenta,0.1000
+acerinox,05/01/2012,2011,A Cuenta,0.1000
+acerinox,05/07/2011,2010,Complementario,0.1500
+acerinox,05/04/2011,2010,A Cuenta,0.1000
+acerinox,05/01/2011,2010,A Cuenta,0.1000
+acerinox,05/07/2010,2009,A Cuenta,0.3500
+acerinox,03/07/2009,2008,Complementario,0.1500
+acciona,01/07/2019,2018,Unico,3.5226
+acciona,02/07/2018,2017,Unico,3.0000
+acciona,03/07/2017,2016,Unico,2.8750
+acciona,01/07/2016,2015,Unico,2.5000
+acciona,02/07/2015,2014,Unico,2.0000
+acciona,01/07/2013,2012,Complementario,1.7500
+acciona,21/01/2013,2012,A Cuenta,0.9000
+acciona,04/06/2012,2011,Complementario,1.9740
+acciona,20/01/2012,2011,A Cuenta,1.0260
+acciona,25/07/2011,2010,Complementario,2.0300
+acciona,21/01/2011,2010,A Cuenta,1.0700
+acciona,01/07/2010,2009,Complementario,1.9400
+acciona,29/12/2009,2009,A Cuenta,1.0700
+adolfo_dguez,28/07/2010,2009,Unico,0.0700
+adolfo_dguez,30/07/2009,2008,Unico,0.1500
+adolfo_dguez,17/07/2008,2007,Unico,0.6000
+adolfo_dguez,19/07/2007,2006,Unico,0.8000
+adolfo_dguez,18/07/2006,2005,Unico,0.6000
+adolfo_dguez,20/07/2005,2004,Unico,0.4200
+adolfo_dguez,21/07/2004,2003,Unico,0.3300
+adolfo_dguez,21/07/2003,2002,Unico,0.2500
+adolfo_dguez,16/07/2002,2001,Unico,0.2200
+adolfo_dguez,19/07/2001,2000,Unico,0.1803
+adolfo_dguez,30/06/2000,1999,Unico,30.0000
+acs,15/01/2007,2006,A Cuenta,0.4000
+acs,03/07/2006,2005,Complementario,0.4000
+acs,16/01/2006,2005,A Cuenta,0.2000
+acs,01/07/2005,2004,Complementario,0.2500
+acs,24/01/2005,2004,A Cuenta,0.1400
+acs,07/06/2004,2003,Complementario,0.4600
+acs,15/01/2004,2003,A Cuenta,0.3600
+acs,03/07/2003,2002,Unico,0.7200
+acs,02/07/2002,2001,Unico,0.6000
+acs,02/07/2001,2000,Unico,0.5000
+acs,26/06/2000,1999,Unico,65.0000
+abengoa_a,06/07/2000,1999,Unico,56.0000
+acerinox,03/04/2009,2008,A Cuenta,0.1000
+acerinox,05/01/2009,2008,A Cuenta,0.1000
+acerinox,04/07/2008,2007,Complementario,0.1500
+acerinox,04/04/2008,2007,A Cuenta,0.1000
+acerinox,04/01/2008,2007,A Cuenta,0.1000
+acerinox,04/07/2007,2006,Complementario,0.1500
+acerinox,04/04/2007,2006,A Cuenta,0.1000
+acerinox,04/01/2007,2006,A Cuenta,0.1000
+acerinox,04/07/2006,2005,Complementario,0.1200
+acerinox,04/04/2006,2005,A Cuenta,0.0700
+acerinox,04/01/2006,2005,A Cuenta,0.0700
+acerinox,11/07/2005,2004,Complementario,0.1200
+acerinox,04/04/2005,2004,A Cuenta,0.0700
+acerinox,04/01/2005,2004,A Cuenta,0.0700
+acerinox,05/07/2004,2003,Complementario,0.3800
+acerinox,05/04/2004,2003,A Cuenta,0.2300
+acerinox,05/01/2004,2003,A Cuenta,0.2300
+acerinox,04/07/2003,2002,Complementario,0.3800
+acerinox,04/04/2003,2002,A Cuenta,0.2300
+acerinox,03/01/2003,2002,A Cuenta,0.2300
+acerinox,04/07/2002,2001,Complementario,0.3600
+acerinox,04/04/2002,2001,A Cuenta,0.2100
+acerinox,04/01/2002,2001,A Cuenta,0.2100
+acciona,01/07/2009,2008,Complementario,1.8500
+acciona,26/01/2009,2008,A Cuenta,1.0700
+acciona,01/07/2008,2007,Complementario,2.3100
+acciona,15/01/2008,2007,A Cuenta,1.3400
+acciona,02/07/2007,2006,Complementario,1.8300
+acciona,15/01/2007,2006,A Cuenta,1.0600
+acciona,01/06/2006,2005,Complementario,1.4400
+acciona,16/01/2006,2005,A Cuenta,0.8800
+acciona,01/06/2005,2004,Complementario,0.9900
+acciona,17/01/2005,2004,A Cuenta,0.6800
+acciona,01/06/2004,2003,Complementario,0.8200
+acciona,15/01/2004,2003,A Cuenta,0.5600
+acciona,01/07/2003,2002,Complementario,0.3500
+acciona,01/07/2003,2002,Extraordinario,0.3500
+acciona,15/01/2003,2002,A Cuenta,0.5000
+acciona,01/07/2002,2001,Complementario,0.4170
+acciona,11/02/2002,2001,A Cuenta,0.2830
+acciona,04/07/2001,2000,Complementario,0.3234
+acciona,15/01/2001,2000,A Cuenta,45.0000
+acciona,01/07/2000,1999,Complementario,45.0000
+acciona,17/01/2000,1999,A Cuenta,40.0000
+acerinox,04/07/2001,2000,Complementario,0.3606
+acerinox,05/04/2001,2000,A Cuenta,0.2104
+acerinox,05/01/2001,2000,A Cuenta,0.2104
+acerinox,04/10/2000,2000,A Cuenta,0.3005
+acerinox,03/07/2000,1999,Complementario,0.3005
+acerinox,04/04/2000,1999,A Cuenta,0.1503
+acerinox,04/01/2000,1999,A Cuenta,0.1503
