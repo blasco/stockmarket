@@ -29,10 +29,12 @@ class DividendsSpider(scrapy.Spider):
             concept = row.xpath('.//td[@class="concept"]/@data-value').extract_first()
             amount = row.xpath('.//td[@class="amount"]/text()').extract_first().replace(',','.')
             company = response.url.replace('http://www.infobolsa.es/cotizacion/dividendos-','')
+            price = row.xpath('//*[@id="stockSummary"]/div/div[2]/div[1]/div[2]/div[1]/text()').extract_first()
             yield {
                     'company': company,
                     'date': date,
                     'exercice': exercice,
                     'concept': concept,
-                    'amount': amount
+                    'amount': amount,
+                    'price': price
                     }

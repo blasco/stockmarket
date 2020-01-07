@@ -1,0 +1,76 @@
+2020-01-07 23:25:29 [scrapy.utils.log] INFO: Scrapy 1.8.0 started (bot: stockScraper)
+2020-01-07 23:25:29 [scrapy.utils.log] INFO: Versions: lxml 4.4.2.0, libxml2 2.9.9, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 19.10.0, Python 3.8.1 (default, Dec 21 2019, 20:57:38) - [GCC 9.2.0], pyOpenSSL 19.1.0 (OpenSSL 1.1.1d  10 Sep 2019), cryptography 2.8, Platform Linux-5.4.8-arch1-1-x86_64-with-glibc2.2.5
+2020-01-07 23:25:29 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'stockScraper', 'EDITOR': 'nvim', 'FEED_FORMAT': 'csv', 'FEED_URI': 'output.csv', 'NEWSPIDER_MODULE': 'stockScraper.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['stockScraper.spiders']}
+2020-01-07 23:25:29 [scrapy.extensions.telnet] INFO: Telnet Password: dc0c195c9c058865
+2020-01-07 23:25:29 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2020-01-07 23:25:29 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2020-01-07 23:25:29 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2020-01-07 23:25:29 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2020-01-07 23:25:29 [scrapy.core.engine] INFO: Spider opened
+2020-01-07 23:25:29 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2020-01-07 23:25:29 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2020-01-07 23:25:29 [scrapy.core.engine] DEBUG: Crawled (404) <GET http://www.infobolsa.es/robots.txt> (referer: None)
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 21 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 31 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 32 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 33 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 35 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 116 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 117 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 133 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 138 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 148 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 216 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 217 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 227 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 228 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 229 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 230 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 231 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 242 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 243 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 269 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 472 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 475 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 480 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 506 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 552 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 559 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 567 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 584 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 593 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 594 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 595 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 596 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 597 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 598 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 601 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 602 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 697 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 701 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 703 without any user agent to enforce it on.
+2020-01-07 23:25:29 [protego] DEBUG: Rule at line 704 without any user agent to enforce it on.
+2020-01-07 23:25:29 [scrapy.core.engine] DEBUG: Crawled (200) <GET http://www.infobolsa.es/mercado-nacional/mercado-continuo> (referer: None)
