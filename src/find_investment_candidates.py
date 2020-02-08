@@ -20,17 +20,11 @@ def load_data():
     data['amount'] = data['amount'].apply(pd.to_numeric, errors='ignore')
     return data
 
-d = 0.4
-p = 5.3
-n = np.log(2)/np.log(d/p + 1)
-print(str(n) + ' years')
-print("{0:.2f}% yearly profitability".format(d/p*100))
-
 def main():
     data = load_data()
 
     company_dividends = []
-    year = 2018
+    year = 2019
     for company in data['company'].unique():
         company_data_for_year = data.loc[ (data['company'] == company) & (data['exercice'] == year)]
         total_dividend = company_data_for_year['amount'].sum()
@@ -46,7 +40,7 @@ def main():
     sorted_companies = sorted(company_dividends, key = lambda x: x['profitability'], reverse=True)
 
     csv_column_names = ['company','dividend','price','profitability']
-    with open('company_dividends.csv', 'w') as csvfile:
+    with open('company_dividends_2019.csv', 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=csv_column_names)
         writer.writeheader()
         for data in sorted_companies:
